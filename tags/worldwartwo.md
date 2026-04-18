@@ -19,7 +19,7 @@ April 15, 2026 - A step-by-step tutorial on writing journal articles in MyST Mar
 
 :::{card} Norm Kightley
 :link: /posts/ServiceRecordNormKightley
-:header: ![thumbnail](../posts/assets/BattleoftheScheldt/media/image1.gif)
+:header: ![thumbnail](../posts/assets/ServiceRecordNormKightley/media/image1.jpg)
 April 15, 2026 - The Battle experience of Uncle Norm Kightley
 :::
 
