@@ -1,6 +1,6 @@
-# WallacePike
+# Wallace Pike
 
-# <img src="assets/WallacePike/media/image1.png"
+<img src="assets/WallacePike/media/image1.png"
 style="width:3.11419in;height:4.39528in"
 alt="A person in a military uniform AI-generated content may be incorrect." />
 

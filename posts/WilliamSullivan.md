@@ -1,6 +1,6 @@
-# WilliamSullivan
+# William Sullivan
 
-# <img src="assets/WilliamSullivan/media/image1.jpeg"
+<img src="assets/WilliamSullivan/media/image1.jpeg"
 style="width:4.07245in;height:6.54717in"
 alt="A close-up of a person in a uniform Description automatically generated" />
 
