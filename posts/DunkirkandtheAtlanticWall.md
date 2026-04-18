@@ -1,6 +1,6 @@
 # DunkirkandtheAtlanticWall
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image1.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image1.png"
 style="width:6.5in;height:3.29722in"
 alt="A map of the world AI-generated content may be incorrect." />
 
@@ -39,14 +39,14 @@ northern France lay Open. The Germans avoided the heavily defend French
 Maginot Line and drove their Panzer divisions through the Ardennes
 Forest, which the French had assumed was impassible for tanks.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image2.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image2.png"
 style="width:6.5in;height:6.02569in"
 alt="A map of the german invasion of the united states AI-generated content may be incorrect." />
 
 Army Group B swept through France in record time, reaching the coast on
 20 May and effectively cutting the Allied forces in half.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image3.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image3.png"
 style="width:6.5in;height:4.01806in"
 alt="A map of the world AI-generated content may be incorrect." />
 
@@ -58,7 +58,7 @@ Army fought desperate rear-guard actions to slow the advance of the
 Germans. They dug in on the sides of canals and rivers and held back the
 Germans as long as possible to allow more troops to evacuate.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image4.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image4.png"
 style="width:6.5in;height:4.58264in"
 alt="A map of the army AI-generated content may be incorrect." />
 
@@ -78,7 +78,7 @@ defences and organize the evacuation. Many German field commanders were
 furious at the halt, and it is generally considered to be the greatest
 German blunder of the war.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image5.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image5.png"
 style="width:6.2296in;height:7.73256in"
 alt="A map of france with red lines AI-generated content may be incorrect." />
 
@@ -91,7 +91,7 @@ The troops were gathered along the beaches and dunes from Dunkirk to Le
 Panne. The British government expected to be able to rescue only
 30,000-45,000 soldiers in this Operation.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image6.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image6.png"
 style="width:6.5in;height:4.02708in"
 alt="A map of a city AI-generated content may be incorrect." />
 
@@ -109,7 +109,7 @@ and staffed them with Navy personnel. They took the boats across the
 Channel on barges and used them to ferry the stranded troops from the
 beaches to larger ships moored offshore.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image7.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image7.png"
 style="width:6.5in;height:4.06111in"
 alt="A group of boats on a river AI-generated content may be incorrect." />
 
@@ -122,7 +122,7 @@ were crewed by Navy personnel. This picture is from the Dunkirk (2017)
 movie. Some historians berate the historical accuracy of the movie, but
 it does a good job showing the scale of the action.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image8.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image8.png"
 style="width:6.5in;height:4.33333in"
 alt="A boat on the water with airplanes flying in the sky AI-generated content may be incorrect." />
 
@@ -130,14 +130,14 @@ The Area from Dunkirk to De Panne is largely beach front. Three main
 pickup areas were on the Beach east of the port of Dunkirk, Bray Dunes
 and De Panne.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image9.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image9.png"
 style="width:6.5in;height:3.12569in"
 alt="A map of a city AI-generated content may be incorrect." />
 
 The troops were huddled on the dunes or strung out in lines along the
 beaches and were very vulnerable to attack.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image10.jpg"
+<img src="assets/DunkirkandtheAtlanticWall/media/image10.jpg"
 style="width:6.5in;height:4.73681in"
 alt="A large group of people in a line AI-generated content may be incorrect." />
 
@@ -146,31 +146,31 @@ attacks from the Luftwaffe and, as the Dunkirk Pocket continued to
 shrink during the latter stages of the evacuation, German artillery as
 well.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image11.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image11.png"
 style="width:6.5in;height:4.30625in"
 alt="A group of people lying on the ground AI-generated content may be incorrect." />
 
 At the height of the evacuation, masses of troops await to board the
 rescue ships.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image12.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image12.png"
 style="width:6.5in;height:4.6875in"
 alt="A large group of people on a beach AI-generated content may be incorrect." />
 
 As the small ships come close to the shore, the troops waded out to meet
 the boats.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image13.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image13.png"
 style="width:6.5in;height:4.39236in"
 alt="A group of soldiers in water AI-generated content may be incorrect." />
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image14.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image14.png"
 style="width:6.5in;height:8.78403in"
 alt="A group of soldiers on a boat AI-generated content may be incorrect." />
 
 Happy troops aboard the rescue ship.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image15.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image15.png"
 style="width:6.5in;height:4.72014in"
 alt="A group of soldiers on a boat AI-generated content may be incorrect." />
 
@@ -178,20 +178,20 @@ On the beaches, the engineers built makeshift wharfs using the abandoned
 vehicles and anything else they could scrounge to allow the small ship
 to load the evacuees directly.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image16.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image16.png"
 style="width:6.5in;height:3.78611in"
 alt="A row of military vehicles parked on a beach AI-generated content may be incorrect." />
 
 The Beach east of the port.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image17.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image17.png"
 style="width:6.5in;height:4.89444in"
 alt="A sandy beach with tall grass and buildings in the background AI-generated content may be incorrect." />
 
 The beach at Bray Dunes. The fortifications were not built until later
 in the war.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image18.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image18.png"
 style="width:6.5in;height:4.89444in"
 alt="A path to a beach with buildings AI-generated content may be incorrect." />
 
@@ -199,14 +199,14 @@ The Beach at De Panne. The peaceful seaside settings don’t give any
 indication of the chaos on the beaches in 1940. The tide is not all the
 way out in this picture.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image19.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image19.png"
 style="width:6.5in;height:4.89444in"
 alt="A beach with buildings and a body of water AI-generated content may be incorrect." />
 
 In De Panne, there is a memorial to the French 12<sup>th</sup> Motorized
 Infantry Division.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image20.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image20.png"
 style="width:6.5in;height:4.89444in"
 alt="Flags on poles with a sign and a beach in the background AI-generated content may be incorrect." />
 
@@ -251,7 +251,7 @@ comes from an older nautical and engineering usage, meaning:
 “A large solid structure on a shore serving as a pier, breakwater, or
 causeway.”
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image21.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image21.png"
 style="width:6.5in;height:4.10972in"
 alt="A map of a harbor AI-generated content may be incorrect." />
 
@@ -263,7 +263,7 @@ troops not have to wade through a high surf. Low cloud cover shielded
 the troops from aerial attack and the RAF put up a stout defence to
 minimize exposure to the fighters and bombers.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image22.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image22.png"
 style="width:6.5in;height:4.86042in"
 alt="Aerial view of a burning city AI-generated content may be incorrect." />
 
@@ -272,7 +272,7 @@ passengers. The troops lined up to await salvation. The mole was bombed
 many times and gaps in the walkway were bridged by planks. Although
 there were casualties, the Mole was used throughout the evacuation.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image23.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image23.png"
 style="width:6.5in;height:4.00417in"
 alt="A group of soldiers holding guns AI-generated content may be incorrect." />
 
@@ -280,19 +280,19 @@ Aerial view of the Dunkirk Harbour today. The Mole is the long walkway
 in the centre of the photo. Today the walkway does not extend across the
 entire mole.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image24.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image24.png"
 style="width:6.5in;height:3.51389in"
 alt="Long shot of a long pier AI-generated content may be incorrect." />
 
 Entrance to the Mole today.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image25.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image25.png"
 style="width:6.5in;height:3.74583in"
 alt="A concrete wall next to water AI-generated content may be incorrect." />
 
 Side view of the Mole with the lighthouse on the Western Mole.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image26.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image26.png"
 style="width:6.5in;height:4.89444in"
 alt="A sandy beach with a lighthouse in the background AI-generated content may be incorrect." />
 
@@ -342,7 +342,7 @@ despatched to France were abandoned.
 There are a number of memorials at Dunkirk. On the boardwalk leading to
 the Mole there is a monument.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image27.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image27.png"
 style="width:6.5in;height:4.89444in"
 alt="A stone monument with flags AI-generated content may be incorrect." />
 
@@ -358,7 +358,7 @@ OF DUNKIRK MAY JUNE 1940
 
 Monument to the Navy Personnel involved in Dunkirk.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image28.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image28.png"
 style="width:6.5in;height:8.63264in"
 alt="A stone monument with a circle in the middle AI-generated content may be incorrect." />
 
@@ -370,7 +370,7 @@ were killed or reported missing between 26 May and 04 June 1940.
 Moreover, the Hourglass symbolizes the possibility of a reversal capable
 of turning a defeat into a victory.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image29.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image29.png"
 style="width:6.5in;height:8.63264in"
 alt="A monument in a park AI-generated content may be incorrect." />
 
@@ -386,7 +386,7 @@ post](https://www.paulsbattlefieldtours.com/post/clearing-the-channel-ports),
 I talked about the fortifications around Boulogne. Worth a read if you
 haven’t seen it.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image30.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image30.png"
 style="width:6.5in;height:4.89444in"
 alt="A large stone structure in a grassy field AI-generated content may be incorrect." />
 
@@ -394,7 +394,7 @@ The number of fortifications around Boulogne was very impressive. You
 can see why the Germans thought that the Channel Ports were a likely
 invasion site due to its proximity to the UK.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image31.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image31.png"
 style="width:4.95876in;height:3.60031in"
 alt="A map with red points AI-generated content may be incorrect." />
 
@@ -402,7 +402,7 @@ alt="A map with red points AI-generated content may be incorrect." />
 
 The fortification locations between Boulogne and Calais.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image32.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image32.png"
 style="width:6.5in;height:2.74167in"
 alt="A map of the ocean AI-generated content may be incorrect." />
 
@@ -419,13 +419,13 @@ over 2 m high and weighed 800 kg. The Batterie fired 40 to 50 rounds a
 day and routinely targeted Allied Convoys and Dover and surrounding
 areas.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image33.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image33.png"
 style="width:6.5in;height:3.36389in"
 alt="A diagram of a bullet AI-generated content may be incorrect." />
 
 The layout of the Bunkers at Batterie Todt.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image34.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image34.png"
 style="width:6.5in;height:4.05972in"
 alt="A map of a field AI-generated content may be incorrect." />
 
@@ -433,45 +433,45 @@ Casemate I now houses the Batterie Todt Museum. Within the existing
 bunker there are very good displays of the gun and the supporting
 weaponry, as well as the layout of the support facilities and barracks.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image35.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image35.png"
 style="width:6.5in;height:4.89444in"
 alt="A round building with a sign on it AI-generated content may be incorrect." />
 
 An original picture of the bunker and gun.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image36.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image36.png"
 style="width:6.5in;height:6.66389in"
 alt="A sign with a cannon in it AI-generated content may be incorrect." />
 
 The present-day configuration of the gun port.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image37.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image37.png"
 style="width:6.5in;height:4.89444in"
 alt="A building with a large round structure AI-generated content may be incorrect." />
 
 Profile schematic of the gun platform. The gun could elevate to 52
 degrees for maximum fire ranges.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image38.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image38.png"
 style="width:6.5in;height:4.89444in"
 alt="A diagram of a military vehicle AI-generated content may be incorrect." />
 
 Size of the barrel.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image39.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image39.png"
 style="width:6.5in;height:8.17847in"
 alt="A person in a barrel AI-generated content may be incorrect." />
 
 Scale of the gun breech.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image40.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image40.png"
 style="width:6.5in;height:4.39167in"
 alt="A group of men in a tank AI-generated content may be incorrect." />
 
 There were a number of ports in the rear wall of the bunker for storing
 and loading rounds. A small rail system was used to deliver the shells.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image41.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image41.png"
 style="width:6.5in;height:4.23819in"
 alt="A black and white map AI-generated content may be incorrect." />
 
@@ -479,15 +479,15 @@ Each casemate was independent, having their own generator,
 communications room, and barracks. The museum had a number of plan views
 to help orient your tour.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image42.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image42.png"
 style="width:6.5in;height:4.89444in"
 alt="A poster with a diagram and a picture of people AI-generated content may be incorrect." />
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image43.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image43.png"
 style="width:6.5in;height:8.63264in"
 alt="A room with clothes and ironing boards AI-generated content may be incorrect." />
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image44.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image44.png"
 style="width:6.5in;height:4.89444in"
 alt="A mannequin sitting at a desk in a room with a machine AI-generated content may be incorrect." />
 
@@ -497,13 +497,13 @@ the Kriegsmarine (Navy). One officer and 18 sailors supported each gun.
 One of the other casemates was heavily damaged by an explosion after the
 war.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image45.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image45.png"
 style="width:6.5in;height:4.89444in"
 alt="A rock with moss growing on it AI-generated content may be incorrect." />
 
 Casemate 4 off in a field.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image46.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image46.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete structure on a hill AI-generated content may be incorrect." />
 
@@ -517,27 +517,27 @@ attack went in and by 1030 the commander of Batterie Todt surrendered.
 The Canadians suffered 5 dead and 37 wounded while taking as Prisoners
 of War, 26 officers and 1,500 soldiers.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image47.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image47.png"
 style="width:6.5in;height:7.80972in"
 alt="A map of the battle of mijnvelden AI-generated content may be incorrect." />
 
 The museum also acknowledges the commanders of the 9<sup>th</sup>
 Brigade.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image48.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image48.png"
 style="width:6.5in;height:4.89444in"
 alt="A white board with pictures of soldiers and soldiers AI-generated content may be incorrect." />
 
 The remains of a Canadian shell are still embedded in one of the bunker
 walls.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image49.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image49.png"
 style="width:6.5in;height:4.89444in"
 alt="A sign on a stone wall AI-generated content may be incorrect." />
 
 Outside the museum is a memorial to the capture of the site.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image50.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image50.png"
 style="width:6.5in;height:4.89444in"
 alt="A white sign with a bird on it AI-generated content may be incorrect." />
 
@@ -553,11 +553,11 @@ Adjacent to the museum is one of the two remaining examples of the
 Railway gun. The Railway gun could fire shells more than 60 km and had a
 built-in crane to handle the rounds.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image51.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image51.png"
 style="width:6.5in;height:4.89444in"
 alt="A train on a grassy hill AI-generated content may be incorrect." />
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image52.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image52.png"
 style="width:6.5in;height:4.89444in"
 alt="A train car on tracks AI-generated content may be incorrect." />
 
@@ -567,7 +567,7 @@ About 15 km up the road from Cap Gris Nez is Cap Blanc Nez, a strong
 point and Radar Station. Cap Blanc Nez is on a ridge 427 feet high
 overlooking the English Channel.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image53.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image53.png"
 style="width:6.5in;height:3.65069in"
 alt="A map of the earth AI-generated content may be incorrect." />
 
@@ -581,30 +581,30 @@ cliffs.
 There are extensive hiking trails throughout the region making this a
 very popular tourist destination.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image54.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image54.png"
 style="width:6.5in;height:4.15694in"
 alt="A long shot of a grassy hill AI-generated content may be incorrect." />
 
 The collection of bunkers that guarded the radar sites.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image55.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image55.png"
 style="width:6.5in;height:3.58264in"
 alt="A aerial view of a beach AI-generated content may be incorrect." />
 
 Dominating views to the East and West. Again, the huge tidal flats are
 clearly visible.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image56.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image56.png"
 style="width:6.5in;height:4.89444in"
 alt="A person and person walking on a path overlooking a beach AI-generated content may be incorrect." />
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image57.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image57.png"
 style="width:6.5in;height:4.89444in"
 alt="A green field with a body of water in the background AI-generated content may be incorrect." />
 
 Several of the observation posts on site.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image58.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image58.png"
 style="width:6.5in;height:4.89444in"
 alt="A grassy hill with people on it AI-generated content may be incorrect." />
 
@@ -620,7 +620,7 @@ finally rebuilt in1967. The inscription translates to:
 > “To the French and British sailors of the Dover Patrol, 1914‑1919, who
 > died for the defence of the Strait.”
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image59.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image59.png"
 style="width:6.5in;height:8.63264in"
 alt="A tall tower in a grassy area AI-generated content may be incorrect." />
 
@@ -630,24 +630,24 @@ Situated just east of Calais is Battery Oldenburg, one of the largest
 Gun batteries on the French Coast, built to defend the port of Calais.
 The two large gun emplacements feature captured 9.5-inch Russian Guns.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image60.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image60.png"
 style="width:6.5in;height:3.90903in"
 alt="A map of a forest AI-generated content may be incorrect." />
 
 Back of one of the gun casemates.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image61.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image61.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people on a hill AI-generated content may be incorrect." />
 
 Second gun casemate and observation post.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image62.jpeg"
+<img src="assets/DunkirkandtheAtlanticWall/media/image62.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A path leading to a building AI-generated content may be incorrect." />View
 of the second casemate from atop the first one.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image63.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image63.png"
 style="width:6.5in;height:4.89444in"
 alt="A grassy field with buildings in the background AI-generated content may be incorrect." />
 
@@ -656,13 +656,13 @@ help hide the bunkers.
 
 A number of bunkers are accessible in the scrubland near the port.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image64.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image64.png"
 style="width:6.5in;height:4.89444in"
 alt="A dirt road through a forest AI-generated content may be incorrect." />
 
 Drone view of the Observation post atop the hospital.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image65.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image65.png"
 style="width:6.5in;height:3.71597in"
 alt="A concrete building in a field AI-generated content may be incorrect." />
 
@@ -683,12 +683,12 @@ isolated.
 The German bunkers were built on the tall sand dunes so a number of
 fortifications have fallen to the beach.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image66.jpeg"
+<img src="assets/DunkirkandtheAtlanticWall/media/image66.jpeg"
 style="width:6.5in;height:3.48472in"
 alt="A beach with a body of water and buildings AI-generated content may be incorrect." />The
 back of the German Observation Post showing the original French Fort.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image67.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image67.png"
 style="width:6.5in;height:3.54514in"
 alt="A building with grass and bushes on top of it AI-generated content may be incorrect." />
 
@@ -696,37 +696,37 @@ Many of the bunkers have fallen onto the beach. This allows you to get
 different perspectives on the structure and provides easy access to
 graffiti artists.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image68.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image68.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete block with graffiti on it AI-generated content may be incorrect." />
 
 More graffiti. The painting takes back its rights.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image69.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image69.png"
 style="width:6.5in;height:4.89444in"
 alt="A building with graffiti on it AI-generated content may be incorrect." />
 
 The erosion of the dunes littering the beach.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image70.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image70.png"
 style="width:6.5in;height:4.89444in"
 alt="A sandy beach with buildings and grass AI-generated content may be incorrect." />
 
 Bunkers scattered like toys.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image71.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image71.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete block on a beach AI-generated content may be incorrect." />
 
 Gun implacement showing its base, graffiti not so impressive.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image72.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image72.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete structure with graffiti on it AI-generated content may be incorrect." />
 
 One of the gun emplacements that landed right side up.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image73.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image73.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete structure with graffiti on it AI-generated content may be incorrect." />
 
@@ -734,45 +734,45 @@ Observation post still on the look out.
 
 Another gun emplacement on the beach.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image74.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image74.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete block with graffiti on it AI-generated content may be incorrect." />
 
 The amount of detritus on the beach gives an indication of the number of
 structures in the Battery.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image75.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image75.png"
 style="width:6.5in;height:4.89444in"
 alt="A rocky beach with a cliff and grass AI-generated content may be incorrect." />
 
 Side view of one of the Observation Posts.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image76.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image76.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete structure with graffiti on it AI-generated content may be incorrect." />
 
 Storage bunkers behind the front lines.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image77.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image77.png"
 style="width:6.5in;height:4.89444in"
 alt="A graffiti on a wall AI-generated content may be incorrect." />
 
 Bunkers back in the dunes.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image78.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image78.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete block with graffiti on it AI-generated content may be incorrect." />
 
 A local chilling in an old gun emplacement in the dunes.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image79.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image79.png"
 style="width:6.5in;height:4.89444in"
 alt="A stone wall with a stone walkway and a grassy hill with a body of water in the background AI-generated content may be incorrect." />
 
 The graffiti on these structures is generally very creative. I
 particularly liked the lobster.
 
-# <img src="../assets/DunkirkandtheAtlanticWall/media/image80.png"
+# <img src="assets/DunkirkandtheAtlanticWall/media/image80.png"
 style="width:6.5in;height:3.59375in"
 alt="A stone building with a crab mural on it AI-generated content may be incorrect." /> Final Thoughts
 
@@ -785,7 +785,7 @@ Army. It would not have been the end but was certainly a key turning
 point in the war. I watched Dunkirk on the latest flight to Amsterdam; I
 am keen to watch it again after having done a bit more research.
 
-<img src="../assets/DunkirkandtheAtlanticWall/media/image81.png"
+<img src="assets/DunkirkandtheAtlanticWall/media/image81.png"
 style="width:6.5in;height:5.67778in"
 alt="A graffiti on a wall AI-generated content may be incorrect." />
 

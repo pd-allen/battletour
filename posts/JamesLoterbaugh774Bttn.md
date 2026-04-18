@@ -1,6 +1,6 @@
 # JamesLoterbaugh774Bttn
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image1.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image1.png"
 style="width:6.5in;height:4.89444in"
 alt="A row of trees in a cemetery AI-generated content may be incorrect." />
 
@@ -13,7 +13,7 @@ called upon to preserve democracy once again. The cemetery has over
 missing and I sat on a bench in the middle of the immaculate grounds
 urging the fallen to shine a light on this crucial day.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image2.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image2.png"
 style="width:6.5in;height:4.89444in"
 alt="A field of white crosses AI-generated content may be incorrect." />
 
@@ -21,7 +21,7 @@ The gentle arcs of the gleaming white marble crosses shone in the
 sunlight but were not strong enough to overpower the tidal wave of
 disinformation.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image3.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image3.png"
 style="width:6.5in;height:4.89444in"
 alt="A field of white crosses AI-generated content may be incorrect." />
 
@@ -33,7 +33,7 @@ After the war the grieving families had the option to repatriate their
 loved ones so more than half of the fallen were returned to the United
 States.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image4.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image4.png"
 style="width:6.5in;height:4.89444in"
 alt="A tall tower in a park AI-generated content may be incorrect." />
 
@@ -41,7 +41,7 @@ The entrance to the Margraten cemetery has a reflecting pool and the
 walls that line the path hold the names of the missing commemorated at
 the cemetery.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image5.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image5.png"
 style="width:6.5in;height:8.63264in"
 alt="A tall tower in a park AI-generated content may be incorrect." />
 
@@ -49,7 +49,7 @@ The Margraten cemetery has been in continuous use since 1944 but was
 rededicated in its current configuration in 1960. The cemetery was built
 in a former orchard, due to its excellent drainage and location near a
 major
-road.<img src="../assets/JamesLoterbaugh774Bttn/media/image6.png"
+road.<img src="assets/JamesLoterbaugh774Bttn/media/image6.png"
 style="width:6.5in;height:4.89444in"
 alt="An aerial view of a field AI-generated content may be incorrect." />
 
@@ -62,14 +62,14 @@ generation to generation as family heirlooms and there remains a waiting
 list to receive a grave to care for. The cemetery is a little more
 well-treed today.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image7.jpg"
+<img src="assets/JamesLoterbaugh774Bttn/media/image7.jpg"
 style="width:5.5in;height:3.67708in"
 alt="Aerial view of a park AI-generated content may be incorrect." />
 
 On my way out of the cemetery, I noticed a workman drilling a hole next
 to one of the names.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image8.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image8.png"
 style="width:6.5in;height:8.63264in"
 alt="A person standing in front of a wall with flowers and a wreath AI-generated content may be incorrect." />
 
@@ -84,7 +84,7 @@ removed from the memorial.
 I had to hang around for a bit until the workman left but managed to get
 a shot of the name so I could look him up.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image9.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image9.png"
 style="width:6.5in;height:4.89444in"
 alt="Close-up of a stone plaque AI-generated content may be incorrect." />
 
@@ -133,17 +133,17 @@ walking the grounds and never noticed any missing headstones. So, I
 spoke with cemetery staff, and they looked up the marker location, and
 it is still assigned to X-1128.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image10.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image10.png"
 style="width:6.5in;height:8.63264in"
 alt="A white cross in a cemetery AI-generated content may be incorrect." />
 
 James now has a rosette, showing he is found.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image11.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image11.png"
 style="width:6.5in;height:4.89444in"
 alt="A stone wall with engraved text AI-generated content may be incorrect." />
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image12.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image12.png"
 style="width:6.5in;height:4.89444in"
 alt="Close-up of a stone with engraved text AI-generated content may be incorrect." />
 
@@ -166,37 +166,37 @@ least 2060. Notably, Dayton National Cemetery is one of only eight
 national cemeteries in the United States that contains the remains of
 veterans from every major U.S. conflict.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image13.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image13.png"
 style="width:6.5in;height:4.875in"
 alt="A long shot of a cemetery with Arlington National Cemetery in the background AI-generated content may be incorrect." />
 
 The massive extent of the cemetery.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image14.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image14.png"
 style="width:6.5in;height:3.25in"
 alt="A field of white gravestones with trees and sun AI-generated content may be incorrect." />
 
 James is buried in SECTION 42, SITE 2477.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image15.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image15.png"
 style="width:6.5in;height:3.55486in"
 alt="A drawing of a building AI-generated content may be incorrect." />
 
 The memorial certificate for James.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image16.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image16.png"
 style="width:6.5in;height:6.49236in"
 alt="A close-up of a card AI-generated content may be incorrect." />
 
 Memorial ID card generated for a found MIA.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image17.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image17.png"
 style="width:6.5in;height:3.65625in"
 alt="A close-up of a military id card AI-generated content may be incorrect." />
 
 # PFC James Gilbert Loterbaugh - US Army
 
-# <img src="../assets/JamesLoterbaugh774Bttn/media/image18.png"
+# <img src="assets/JamesLoterbaugh774Bttn/media/image18.png"
 style="width:5.41742in;height:7.44896in"
 alt="A person in a uniform AI-generated content may be incorrect." />
 
@@ -256,7 +256,7 @@ in California with the 7th Armored Division by September 1943. The
 desert training had been set up to support the US troops heading to
 Africa.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image19.jpeg"
+<img src="assets/JamesLoterbaugh774Bttn/media/image19.jpeg"
 style="width:5.10345in;height:3.6084in"
 alt="A military tank driving on a dirt road AI-generated content may be incorrect." />
 
@@ -271,7 +271,7 @@ overseas deployment, they prepared for a month of training,
 concentrating on indirect firing (i.e. using the Tank Gun as an
 artillery piece).
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image20.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image20.png"
 style="width:6.5in;height:5.86181in"
 alt="A group of men on a tank AI-generated content may be incorrect." />
 
@@ -287,7 +287,7 @@ the 15th arrived in Barnstaple, England, the new home station of the
 The Dominion Monarch was primarily a refrigerated cargo ship and was the
 largest ship ever built with all first-class accommodations.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image21.jpeg"
+<img src="assets/JamesLoterbaugh774Bttn/media/image21.jpeg"
 style="width:6.5in;height:4.34028in"
 alt="A large ship in the water AI-generated content may be incorrect." />
 
@@ -296,7 +296,7 @@ Tanks (LST’s), disembarking at Utah beach on the 25th. The first mission
 assigned the 774th was to protect General Patton’s right flank in his
 push through France.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image22.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image22.png"
 style="width:6.5in;height:5.03472in"
 alt="A military ship with tanks in the back AI-generated content may be incorrect." />
 
@@ -306,7 +306,7 @@ in the secondary mission sending over 11,000 rounds of indirect fire
 into German soil across the river. A line of Canadian Sherman Tanks
 conducting indirect fire in Italy.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image23.jpg"
+<img src="assets/JamesLoterbaugh774Bttn/media/image23.jpg"
 style="width:6.5in;height:6.43472in"
 alt="A group of men in military uniforms AI-generated content may be incorrect." />
 
@@ -332,7 +332,7 @@ and D companies, over routes that had been re-mined and that were under
 constant observed artillery and mortar fire. 774<sup>th</sup> Tank
 Battalion wading through the mud.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image24.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image24.png"
 style="width:6.5in;height:4.36042in"
 alt="A group of soldiers on tanks AI-generated content may be incorrect." />
 
@@ -357,19 +357,19 @@ a very cold and wet fall so what few roads existed turned into a sea of
 mud. The terrain was very hilly and when shells hit the trees they
 shattered and rained deadly branches down on the troops.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image25.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image25.png"
 style="width:5.96617in;height:7.99934in"
 alt="A map of a river AI-generated content may be incorrect." />
 
 Bunkers on the Seigfried Line.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image26.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image26.png"
 style="width:6.5in;height:4.35417in"
 alt="A concrete structure in the woods AI-generated content may be incorrect." />
 
 Dragon’s Teeth Anti-Tank Defences on the Seigfried Line.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image27.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image27.png"
 style="width:6.5in;height:5.07778in"
 alt="A black and white photo of a landscape AI-generated content may be incorrect." />
 
@@ -378,7 +378,7 @@ through the Monschau corridor as they were concerned about attacks from
 the flank. The following map shows the very limited progress over a
 3-month period.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image28.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image28.png"
 style="width:6.5in;height:4.88056in"
 alt="A map of a military area AI-generated content may be incorrect." />The
 Army threw Division after Division in an attempt to make a breakthrough.
@@ -396,7 +396,7 @@ The details of the 774<sup>th</sup> Tank Battalion travels from landing
 at Utah Beach on 25 August until the end of the Battle of the Hurtgen
 forest are shown on this map.
 
-<img src="../assets/JamesLoterbaugh774Bttn/media/image29.png"
+<img src="assets/JamesLoterbaugh774Bttn/media/image29.png"
 style="width:6.5in;height:3.15694in"
 alt="A map of a city AI-generated content may be incorrect." />
 

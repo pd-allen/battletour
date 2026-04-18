@@ -1,6 +1,6 @@
 # LiberatonoftheNetherlands
 
-<img src="../assets/LiberatonoftheNetherlands/media/image1.png"
+<img src="assets/LiberatonoftheNetherlands/media/image1.png"
 style="width:6.5in;height:3.99722in"
 alt="A map of a country AI-generated content may be incorrect." />
 
@@ -17,7 +17,7 @@ the 2<sup>nd</sup> Division went up the middle and were replaced by the
 5<sup>th</sup> Armoured Division and the 4<sup>th</sup> Armoured
 Division went into Germany supporting the Brits.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image2.png"
+<img src="assets/LiberatonoftheNetherlands/media/image2.png"
 style="width:6.5in;height:4.01181in" />
 
 # The Grebbe Line
@@ -36,7 +36,7 @@ invaders. There was a plan to more heavily fortify the line before the
 war, but funding and resources were not made available. The Dutch held
 the line for 3 days as the Germans swept through the low countries.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image3.png"
+<img src="assets/LiberatonoftheNetherlands/media/image3.png"
 style="width:6.25in;height:6.94792in"
 alt="A map of the netherlands AI-generated content may be incorrect." />
 
@@ -64,7 +64,7 @@ population. Operations Manna and Chowhound were raised to airdrop food
 to the population and the Canadians quickly established convoys to
 deliver additional food and supplies.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image4.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image4.jpeg"
 style="width:6.5in;height:8.15694in"
 alt="A group of people on a sidewalk AI-generated content may be incorrect." />
 
@@ -74,7 +74,7 @@ occupied region of the Western Netherlands.
 
 Ground crews loading a Lancaster bomber.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image5.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image5.jpg"
 style="width:6.5in;height:5.40347in" />
 
 Approximately twenty thousand Dutch died from starvation. Three times
@@ -96,7 +96,7 @@ military and humanitarian intervention of the Canadians.
 
 The Canadians paths north.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image6.png"
+<img src="assets/LiberatonoftheNetherlands/media/image6.png"
 style="width:6.5in;height:6.5in"
 alt="A map of the war AI-generated content may be incorrect." />
 
@@ -115,7 +115,7 @@ get the daily information. The Hussars map covers the period from 15
 April until the end of the War, and the Argylls map covers the period 28
 Oct 1944 (when Uncle George joined the unit) until the end of the War.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image7.JPG"
+<img src="assets/LiberatonoftheNetherlands/media/image7.JPG"
 style="width:6.5in;height:3.48819in"
 alt="A map with a route AI-generated content may be incorrect." />
 
@@ -155,39 +155,39 @@ Liberated by
 
 5 Canadian Armoured Division
 
-<img src="../assets/LiberatonoftheNetherlands/media/image8.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image8.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A grave stone with text on it AI-generated content may be incorrect." />
 
 I visited just after Liberation Day 05 May, so a number of wreaths were
 present.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image9.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image9.jpeg"
 style="width:6.5in;height:4.3in" />
 
 There is also a memorial to the fallen.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image10.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image10.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 As well as a tribute to Major General Burt Hoffmeister, commander of the
 5<sup>th</sup> Armoured Division.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image11.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image11.jpeg"
 style="width:6.5in;height:8.63264in" />
 
-<img src="../assets/LiberatonoftheNetherlands/media/image12.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image12.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A brick path with a group of flowers and a flag AI-generated content may be incorrect." />
 
 Lining the streets around the memorial, all of the fallen are
 commemorated on banners, a very touching remembrance.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image13.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image13.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A flag on a pole AI-generated content may be incorrect." />
 
-<img src="../assets/LiberatonoftheNetherlands/media/image14.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image14.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A sign on a pole AI-generated content may be incorrect." />
 
@@ -206,19 +206,19 @@ split the German forces in Holland in two. The 5<sup>th</sup> Division
 only suffered 76 casualties in total while capturing more than 1700
 prisoners.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image15.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image15.jpg"
 style="width:6.5in;height:5.04861in"
 alt="A military tank driving through a destroyed building Description automatically generated" />
 
 **<u>Hussar Firefly entering Putten in April 1945.</u>**
 
-<img src="../assets/LiberatonoftheNetherlands/media/image16.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image16.jpeg"
 style="width:6.5in;height:5.01319in"
 alt="A map of a battle AI-generated content may be incorrect." />
 
 There is a memorial to the soldiers lost during the fighting at Putten.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image17.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image17.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A stone monument with text on it AI-generated content may be incorrect." />
 
@@ -249,7 +249,7 @@ and canals made cross-country movement impossible. The weather was wet
 and the whole area subject to flooding, which meant that all vehicles
 were confined to roads."
 
-<img src="../assets/LiberatonoftheNetherlands/media/image18.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image18.jpeg"
 style="width:6.25424in;height:5.16126in"
 alt="A map of the battle of the british army AI-generated content may be incorrect." />
 
@@ -274,7 +274,7 @@ supporting arms forward." They also endured much shelling, some coming
 across the estuary from the vicinity of Emden. Destroyed port guns near
 Delfzijl.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image19.png"
+<img src="assets/LiberatonoftheNetherlands/media/image19.png"
 style="width:6.41259in;height:3.47119in"
 alt="A large machine on a beach AI-generated content may be incorrect." />
 
@@ -283,7 +283,7 @@ to the Westminster Regiment with the goal of shutting down the Battery
 east of Delfzijl. They decided to capture the small port of Termunten
 first to isolate the battery.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image20.png"
+<img src="assets/LiberatonoftheNetherlands/media/image20.png"
 style="width:6.5in;height:4.89444in"
 alt="A map of a city AI-generated content may be incorrect." />The tanks
 had a hard time negotiating the mud, so the infantry slogged through
@@ -293,13 +293,13 @@ struggled through the mud finally joining the infantry and crushed the
 resistance of the Germans. Using a pincer movement, the Westies took the
 port and captured 500 soldiers standing on the pier awaiting evacuation.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image21.png"
+<img src="assets/LiberatonoftheNetherlands/media/image21.png"
 style="width:6.5in;height:5.16042in"
 alt="A map of the battle of delft AI-generated content may be incorrect." />
 
 The current day harbour at Termunten.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image22.png"
+<img src="assets/LiberatonoftheNetherlands/media/image22.png"
 style="width:6.5in;height:4.89444in"
 alt="A body of water with buildings and grass AI-generated content may be incorrect." />
 
@@ -307,13 +307,13 @@ The battery at Fiermel continued to fire on the Westministers, so they
 approached along the dyke to formulate a plan to take the Battery. View
 along the dyke today.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image23.png"
+<img src="assets/LiberatonoftheNetherlands/media/image23.png"
 style="width:6.5in;height:4.89444in"
 alt="A grassy area next to a body of water AI-generated content may be incorrect." />
 
 The sheep maintain the grass along the dyke.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image24.png"
+<img src="assets/LiberatonoftheNetherlands/media/image24.png"
 style="width:6.5in;height:4.89444in"
 alt="Sheep grazing on a hill AI-generated content may be incorrect." />
 
@@ -322,39 +322,39 @@ collection of bunkers that would be very difficult to dislodge. The
 aerial photo shows the battery layout. The circled bunkers are still
 present.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image25.png"
+<img src="assets/LiberatonoftheNetherlands/media/image25.png"
 style="width:6.5in;height:4.89306in"
 alt="Aerial view of a building AI-generated content may be incorrect." />
 
 An aerial photo from shortly before the battle.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image26.png"
+<img src="assets/LiberatonoftheNetherlands/media/image26.png"
 style="width:6.5in;height:4.71806in"
 alt="An aerial view of a farm AI-generated content may be incorrect." />
 
 The 128 mm gun was mounted on a storage bunker to easily fire over the
 dyke. The gun mounted on the top is a reproduction of the actual gun.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image27.png"
+<img src="assets/LiberatonoftheNetherlands/media/image27.png"
 style="width:6.5in;height:4.89444in"
 alt="A building with an object on top of it AI-generated content may be incorrect." />
 
 View from the gun position.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image28.png"
+<img src="assets/LiberatonoftheNetherlands/media/image28.png"
 style="width:6.5in;height:8.63264in"
 alt="A large blue machine on a concrete platform AI-generated content may be incorrect." />
 
 The actual gun after the area was captured. The guns had a range of more
 than 10km, so they could reach the port of Delfzijl.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image29.png"
+<img src="assets/LiberatonoftheNetherlands/media/image29.png"
 style="width:6.5in;height:3.99028in"
 alt="A large cannon on a platform AI-generated content may be incorrect." />
 
 The circled munitions bunker that supported the guns.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image30.png"
+<img src="assets/LiberatonoftheNetherlands/media/image30.png"
 style="width:6.5in;height:4.89444in"
 alt="A concrete block with a square base with Fort Barrancas in the background AI-generated content may be incorrect." />
 
@@ -376,7 +376,7 @@ discarded after clearing the barrel. The remaining projectile is much
 more aerodynamic than the conventional shell, so impacts the target with
 much higher energy, permitting deeper penetration.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image31.png"
+<img src="assets/LiberatonoftheNetherlands/media/image31.png"
 style="width:5.63107in;height:2.4099in"
 alt="A diagram of a diagram of a rocket AI-generated content may be incorrect." />
 
@@ -389,14 +389,14 @@ lighter than expected.
 One of the many bunkers in Delfzijl. This bunker is now part of the
 local aquarium.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image32.png"
+<img src="assets/LiberatonoftheNetherlands/media/image32.png"
 style="width:6.5in;height:4.89444in"
 alt="A cannon in a field AI-generated content may be incorrect." />
 
 A very interesting reuse of a bunker, but it is a bit odd walking among
 the tanks of fish while ducking through low concrete doorways.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image33.png"
+<img src="assets/LiberatonoftheNetherlands/media/image33.png"
 style="width:6.5in;height:8.63264in"
 alt="A hallway with a sign AI-generated content may be incorrect." />
 
@@ -404,7 +404,7 @@ The thickness of the walls is incredible. When they made the entrance
 linking the bunker to the main building, it took 3 days to saw through
 the 3 m of concrete.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image34.png"
+<img src="assets/LiberatonoftheNetherlands/media/image34.png"
 style="width:6.5in;height:4.23125in"
 alt="A concrete block with a door open AI-generated content may be incorrect." />
 
@@ -419,20 +419,20 @@ retirement home and the grounds designated as a walking forest. The
 Hussars set up camp in the fields around the estate, before moving into
 the town and boarding with the residents.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image35.png"
+<img src="assets/LiberatonoftheNetherlands/media/image35.png"
 style="width:6.5in;height:4.89444in"
 alt="A field of grass with trees and a cloudy sky AI-generated content may be incorrect." />
 
 The villa is now a museum, and the walking trails still a popular local
 destination.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image36.png"
+<img src="assets/LiberatonoftheNetherlands/media/image36.png"
 style="width:6.5in;height:4.89444in"
 alt="A white house with trees and a gate AI-generated content may be incorrect." />
 
 Relations with the local population were excellent.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image37.png"
+<img src="assets/LiberatonoftheNetherlands/media/image37.png"
 style="width:6.15524in;height:3.7534in"
 alt="A sign with a number and a crown AI-generated content may be incorrect." />
 
@@ -443,7 +443,7 @@ Groningen, Dutch Canadian study clubs and all sorts of personal
 liaisons. Holland was a good and grateful place to be, and the Hussars
 made the most of it.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image38.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image38.jpeg"
 style="width:6.50971in;height:3.67158in"
 alt="A group of people sitting on the grass AI-generated content may be incorrect." />
 
@@ -467,14 +467,14 @@ attentions of her Regiment. The Dutch people of Eelde came to call her
 "our horse." Once, seeing the men march by, she leaped the fence and
 joined them. But normally her conduct was far more regal than that.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image39.png"
+<img src="assets/LiberatonoftheNetherlands/media/image39.png"
 style="width:5.41043in;height:3.9066in"
 alt="A person standing next to a horse AI-generated content may be incorrect." />
 
 Many of the men were billeted at the Hotel Paterswolde, a lakeside
 resort before the war.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image40.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image40.jpg"
 style="width:6.5in;height:4.875in"
 alt="A building with a group of people outside AI-generated content may be incorrect." />
 
@@ -501,7 +501,7 @@ April 1945 – December 1945
 
 Brass from 105 mm shell fired at enemy by 8th New Brunswick Hussars.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image41.png"
+<img src="assets/LiberatonoftheNetherlands/media/image41.png"
 style="width:6.5in;height:4.89444in"
 alt="A plaque on a glass case AI-generated content may be incorrect." />
 
@@ -510,7 +510,7 @@ of exhibits showing the great appreciation the Dutch had for the
 Canadians. The town of Eelde is still twinned with Sussex, indicating
 the deep bond between nations.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image42.png"
+<img src="assets/LiberatonoftheNetherlands/media/image42.png"
 style="width:6.5in;height:8.66667in"
 alt="A flag with a name tag and a plaque AI-generated content may be incorrect." />
 
@@ -545,7 +545,7 @@ freedom.
 
 Another plaque made of a fired tank shell.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image43.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image43.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A plaque with a wooden frame AI-generated content may be incorrect." />
 
@@ -558,26 +558,26 @@ accompanied by LGen Charles Foulkes and LGen Guy Simmonds,
 1<sup>st</sup> and 2<sup>nd</sup> Canadian Corps Commander, and MGen
 Bert Hoffmeister 5<sup>th</sup> Armoured Division Commander.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image44.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image44.jpeg"
 style="width:6.5in;height:4.53681in"
 alt="A group of soldiers standing in a line Description automatically generated" />
 
 The final drive past of the reviewing stand.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image45.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image45.jpg"
 style="width:6.5in;height:4.98542in"
 alt="A group of tanks driving down a road Description automatically generated" />
 
 The 5<sup>th</sup> Canadian Armoured Division together for the final
 review.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image46.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image46.jpeg"
 style="width:6.41954in;height:3.44549in"
 alt="A large field with vehicles in it AI-generated content may be incorrect." />
 
 Hussars paying their final respects to their fallen comrades.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image47.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image47.jpeg"
 style="width:6.13559in;height:3.88543in"
 alt="Men standing in a cemetery AI-generated content may be incorrect." />
 
@@ -608,13 +608,13 @@ Tractable, the Battle of Falaise Gap, Battle of Moerbrugge (Crossing the
 Ghent Canal), Leopold Canal, Battle of the Scheldt and Operation
 Suitcase before George arrived.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image48.png"
+<img src="assets/LiberatonoftheNetherlands/media/image48.png"
 style="width:6.5in;height:7.94722in"
 alt="Map Description automatically generated" />
 
 George with his unit. He is in the third row, second from the right.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image49.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image49.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A picture containing old, outdoor, group, posing Description automatically generated" />
 
@@ -631,7 +631,7 @@ their troops battlefield experience. In late December the Germans had
 established an output on the south side of the Maas River, that they
 subsequently fortified and strengthened.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image50.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image50.jpeg"
 style="width:6.5in;height:4.37153in"
 alt="Diagram Description automatically generated" />
 
@@ -652,7 +652,7 @@ held their fire until the last second then counter-attacked furiously.
 All officers from both Companies were casualties, the Lincolns
 disorganized, so the Argylls joined the fight.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image51.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image51.jpeg"
 style="width:3.81378in;height:5.46361in"
 alt="Diagram Description automatically generated" />
 
@@ -674,7 +674,7 @@ Argylls suffered 13 killed and 32 wounded.
 A monument to the combatants was erected in 1985, on the 40<sup>th</sup>
 anniversary of the action.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image52.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image52.jpg"
 style="width:6.74576in;height:4.33542in"
 alt="A brick wall with a grass hill AI-generated content may be incorrect." />
 
@@ -699,17 +699,17 @@ The Argyll’s plaque states:
 >
 > January 26-30, 1945
 
-<img src="../assets/LiberatonoftheNetherlands/media/image53.png"
+<img src="assets/LiberatonoftheNetherlands/media/image53.png"
 style="width:3.125in;height:3.08333in"
 alt="A logo of a lion AI-generated content may be incorrect." />
 
-<img src="../assets/LiberatonoftheNetherlands/media/image54.png"
+<img src="assets/LiberatonoftheNetherlands/media/image54.png"
 style="width:6.57398in;height:4.98184in"
 alt="A plaque on a brick wall AI-generated content may be incorrect." />
 
 ## The Hochwald (Operation Blockbuster)
 
-<img src="../assets/LiberatonoftheNetherlands/media/image55.jpeg"
+<img src="assets/LiberatonoftheNetherlands/media/image55.jpeg"
 style="width:6.5in;height:4.34861in"
 alt="Diagram Description automatically generated" />
 
@@ -750,7 +750,7 @@ were in place awaiting the attack of the remainder of 2<sup>nd</sup>
 Corps. Many of the tanks were bogged down, some buried up to their
 turrets.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image56.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image56.jpg"
 style="width:6.5in;height:3.98275in"
 alt="Diagram, engineering drawing Description automatically generated" />
 
@@ -791,7 +791,7 @@ the mortar fire grew steadily in volume, coming apparently from a large
 wood about a mile north of Veen. For the moment, all that could be done
 was to sit and endure it.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image57.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image57.jpg"
 style="width:6.19492in;height:4.3065in"
 alt="A group of soldiers on a road AI-generated content may be incorrect." />
 
@@ -852,7 +852,7 @@ around the compound with string tied from the toe of their boots to
 above the knee to keep their toes from dragging on the ground from lack
 of muscle power.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image58.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image58.jpg"
 style="width:6.5in;height:4.57292in"
 alt="A map of a city Description automatically generated" />
 
@@ -871,7 +871,7 @@ given a complete medical check up. On 05 May 1945 George was officially
 reported safe in England. George was sent to No 4 General Hospital in
 Farnborough near Aldershot, where he remained for a week.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image59.jpg"
+<img src="assets/LiberatonoftheNetherlands/media/image59.jpg"
 style="width:6.5in;height:6.39861in"
 alt="A group of people behind a fence Description automatically generated" />
 
@@ -882,7 +882,7 @@ capture. On 01 March the Argylls were resting after their fighting
 through the Hochwald Gap. They absorbed 54 replacements while waiting
 for their next action.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image60.png"
+<img src="assets/LiberatonoftheNetherlands/media/image60.png"
 style="width:6.5in;height:3.45417in"
 alt="A large grassy field with trees and a blue sky AI-generated content may be incorrect." />
 
@@ -890,14 +890,14 @@ On 05 and 06 May the Argyll’s moved through Uedem in preparation for
 their assault on Veen. The Argylls deployed into farmer’s fields and
 forest for cover whenever possible.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image61.png"
+<img src="assets/LiberatonoftheNetherlands/media/image61.png"
 style="width:6.5in;height:2.53889in"
 alt="Aerial view of a field AI-generated content may be incorrect." />
 
 On the night of 06 May, two companies of the Argyll’s moved up to
 assault Veen. They progressed well until the crossroads where they came
 under heavy
-fire.<img src="../assets/LiberatonoftheNetherlands/media/image62.JPG"
+fire.<img src="assets/LiberatonoftheNetherlands/media/image62.JPG"
 style="width:6.5in;height:2.93472in"
 alt="A map of a city AI-generated content may be incorrect." />
 
@@ -911,14 +911,14 @@ number of men, including George Johnston.
 
 The ground is still farmland, and the ditch is still present.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image63.png"
+<img src="assets/LiberatonoftheNetherlands/media/image63.png"
 style="width:6.5in;height:4.89444in"
 alt="A tree with green leaves AI-generated content may be incorrect." />
 
 The open fields provided no cover, so the ditches were the only
 relatively safe areas.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image64.png"
+<img src="assets/LiberatonoftheNetherlands/media/image64.png"
 style="width:6.5in;height:4.89444in"
 alt="A fenced in field with trees and grass AI-generated content may be incorrect." />
 
@@ -927,7 +927,7 @@ turn. The Google Earth image shows the camera location and the progress
 of the Argylls when they were forced to surrender. The trees in the
 upper left define the village of Veen.
 
-<img src="../assets/LiberatonoftheNetherlands/media/image65.JPG"
+<img src="assets/LiberatonoftheNetherlands/media/image65.JPG"
 style="width:6.5in;height:4.06319in"
 alt="Aerial view of a farm AI-generated content may be incorrect." />
 

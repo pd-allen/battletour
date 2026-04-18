@@ -1,6 +1,6 @@
 # ClearingtheChannelPorts
 
-<img src="../assets/ClearingtheChannelPorts/media/image1.jpg"
+<img src="assets/ClearingtheChannelPorts/media/image1.jpg"
 style="width:6.5in;height:5.08194in"
 alt="A map of the pursuit of the channel ports AI-generated content may be incorrect." />
 
@@ -35,7 +35,7 @@ assigned as priorities for the Canadians. The Germans also recognized
 the importance of the ports, so on 04 September, Hitler declared the
 ports to be fortresses that were to be defended to the last man.
 
-<img src="../assets/ClearingtheChannelPorts/media/image2.jpeg"
+<img src="assets/ClearingtheChannelPorts/media/image2.jpeg"
 style="width:6.5in;height:4.88819in"
 alt="A map of the east coast of england AI-generated content may be incorrect." />
 

@@ -1,6 +1,6 @@
 # BattleoftheScheldt
 
-<img src="../assets/BattleoftheScheldt/media/image1.gif"
+<img src="assets/BattleoftheScheldt/media/image1.gif"
 style="width:6.5in;height:5.12222in"
 alt="A map of the battle of schelt Description automatically generated" />
 
@@ -14,7 +14,7 @@ As can be seen from the map from the Canadian Official History, this is
 a very complicated battle with a lot of moving parts, so the actions
 south and north of the Scheldt will be separated into separate posts.
 
-<img src="../assets/BattleoftheScheldt/media/image2.JPG"
+<img src="assets/BattleoftheScheldt/media/image2.JPG"
 style="width:6.5in;height:4.01181in"
 alt="A map of the battle of the great patriotic war Description automatically generated" />
 
@@ -28,7 +28,7 @@ Industrial Heartland of the Ruhr Valley on their way to Berlin.
 Montgomery believed the German Army was near collapse, and his strategy
 would end the War by Christmas 1944.
 
-<img src="../assets/BattleoftheScheldt/media/image3.jpg"
+<img src="assets/BattleoftheScheldt/media/image3.jpg"
 style="width:6.5in;height:5.30417in" />
 
 As the Allies got further from Normandy, the resupply of the troops
@@ -45,7 +45,7 @@ the clearance of the Channel ports in order to shorten the supply lines.
 Hitler realized that the ports were key to the Allied progress, so order
 each port be turned into a fortress and defended to the last man.
 
-<img src="../assets/BattleoftheScheldt/media/image4.gif"
+<img src="assets/BattleoftheScheldt/media/image4.gif"
 style="width:5.45556in;height:3.69159in"
 alt="A map of the channel islands Description automatically generated" />
 
@@ -64,7 +64,7 @@ The port of Antwerp was taken largely intact by the British second army
 on 04 September, but Antwerp was 50 miles inland and both sides of the
 Scheldt Estuary were strongly held by the Germans.
 
-<img src="../assets/BattleoftheScheldt/media/image5.JPG"
+<img src="assets/BattleoftheScheldt/media/image5.JPG"
 style="width:6.5in;height:3.46875in"
 alt="A map of land with roads and water Description automatically generated" />
 
@@ -90,7 +90,7 @@ of Antwerp would be devastating for the Germans, so he strengthened
 troops on both sides of the Scheldt and declared again they fight to the
 last man.
 
-<img src="../assets/BattleoftheScheldt/media/image6.jpg"
+<img src="assets/BattleoftheScheldt/media/image6.jpg"
 style="width:6.5in;height:5.12222in"
 alt="A map of the battle of schellt Description automatically generated" />
 
@@ -119,7 +119,7 @@ The first major obstacle for the Canadians was the Leopold Canal. The
 Germans had flooded much of the land north of the Canal to force the
 Canadians into crossing at very well defended locations.
 
-<img src="../assets/BattleoftheScheldt/media/image7.jpeg"
+<img src="assets/BattleoftheScheldt/media/image7.jpeg"
 style="width:6.5in;height:4.33958in"
 alt="A map of a land with a black and white label Description automatically generated" />
 
@@ -131,21 +131,21 @@ across the canals was stopped by heavy fire, so all 4 companies of the
 Algonquins were paddled across both Canals by the Lincolns in assault
 boats while under heavy fire.
 
-<img src="../assets/BattleoftheScheldt/media/image8.jpeg"
+<img src="assets/BattleoftheScheldt/media/image8.jpeg"
 style="width:6.5in;height:8.40764in" />
 
 The banks of the canal are about 20 ft high, so they had to drag the
 boats down one bank, paddle across the first canal, climb the bank cross
 the central dyke then repeat the action on the second canal.
 
-<img src="../assets/BattleoftheScheldt/media/image9.jpeg"
+<img src="assets/BattleoftheScheldt/media/image9.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A river with trees in the background Description automatically generated" />
 
 The canals looked idyllic when I visited, but it was easy to imagine the
 difficulty of the crossings.
 
-<img src="../assets/BattleoftheScheldt/media/image10.jpeg"
+<img src="assets/BattleoftheScheldt/media/image10.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A water way with trees and blue sky Description automatically generated" />
 
@@ -158,13 +158,13 @@ men who crossed the canals.
 The road that runs along the canal is now called Algonquinstraat and
 there is a memorial to the action near the current bridge.
 
-<img src="../assets/BattleoftheScheldt/media/image11.jpeg"
+<img src="assets/BattleoftheScheldt/media/image11.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A stone monument with a sign on it Description automatically generated" />
 
 The plaque reads:
 
-<img src="../assets/BattleoftheScheldt/media/image12.jpeg"
+<img src="assets/BattleoftheScheldt/media/image12.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A stone plaque with text on it Description automatically generated" />
 
@@ -175,7 +175,7 @@ The Canadian Divisions were scattered and exhausted from the Channel
 Port Battles, so it wasn’t until 06 October that the next attempt at the
 canal was made.
 
-<img src="../assets/BattleoftheScheldt/media/image13.jpg"
+<img src="assets/BattleoftheScheldt/media/image13.jpg"
 style="width:6.5in;height:4.32222in" />
 
 The Roal Montreal Regiment was the first unit to cross at 0530. They
@@ -185,7 +185,7 @@ minutes and had the north shore of the canal ablaze. Unfortunately, the
 flames illuminated the boats crossings, and an entire company was lost
 to machine gun fire.
 
-<img src="../assets/BattleoftheScheldt/media/image14.jpg"
+<img src="assets/BattleoftheScheldt/media/image14.jpg"
 style="width:6.5in;height:5.45347in"
 alt="A fire burning at night Description automatically generated" />
 
@@ -200,7 +200,7 @@ battle exhaustion.
 This is the bunker on the canal bank that caused so many problems for
 the Canadians.
 
-<img src="../assets/BattleoftheScheldt/media/image15.jpeg"
+<img src="assets/BattleoftheScheldt/media/image15.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A concrete structure with a door and a door open Description automatically generated with medium confidence" />
 
@@ -210,20 +210,20 @@ own for 24 hours.
 A memorial to the 7<sup>th</sup> Brigade is located in Eedle, one of the
 first towns in the Netherlands to be liberated.
 
-<img src="../assets/BattleoftheScheldt/media/image16.jpeg"
+<img src="assets/BattleoftheScheldt/media/image16.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A black sign with white text on it Description automatically generated" />
 
 The monument is collocated to a celebration of Queen Wilhelmina’s return
 to the Netherlands.
 
-<img src="../assets/BattleoftheScheldt/media/image17.jpeg"
+<img src="assets/BattleoftheScheldt/media/image17.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A sign with a tank in front of it Description automatically generated" />
 
 A Bren Carrier in excellent condition.
 
-<img src="../assets/BattleoftheScheldt/media/image18.jpeg"
+<img src="assets/BattleoftheScheldt/media/image18.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A military tank on a brick road Description automatically generated" />
 
@@ -231,7 +231,7 @@ A bailey bridge was eventually built across the Leopold Canal. The
 bridge was moved down the canal after the war, but is still in use today
 to provide access to an extensive walking and bike path network.
 
-<img src="../assets/BattleoftheScheldt/media/image19.jpeg"
+<img src="assets/BattleoftheScheldt/media/image19.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A bridge over water with trees in the background Description automatically generated" />
 
@@ -240,19 +240,19 @@ alt="A bridge over water with trees in the background Description automatically 
 On 09 October, the 9<sup>th</sup> Brigade made landings in 100 Buffalo
 Amphibious vehicles just east of Hoofdplaat on the river’s edge.
 
-<img src="../assets/BattleoftheScheldt/media/image20.jpeg"
+<img src="assets/BattleoftheScheldt/media/image20.jpeg"
 style="width:6.5in;height:7.84306in"
 alt="A map of the coast Description automatically generated" />
 
 The Buffalos were tracked amphibious vehicles that carried 30 troops and
 used their treads as paddles in the water to advance at 8 mph.
 
-<img src="../assets/BattleoftheScheldt/media/image21.jpeg"
+<img src="assets/BattleoftheScheldt/media/image21.jpeg"
 style="width:6.5in;height:4.33333in" />
 
 Buffalos landing on the Scheldt bank.
 
-<img src="../assets/BattleoftheScheldt/media/image22.jpg"
+<img src="assets/BattleoftheScheldt/media/image22.jpg"
 style="width:4.81338in;height:3.60622in" />
 
 The southern bank of the Scheldt is sand based at low tide with a wide
@@ -260,14 +260,14 @@ strip of marsh grass followed by a steep dike. The landing areas are
 shown below. A number of Buffalos got bogged down on the shoreline, but
 the troops got ashore with relatively few casualties.
 
-<img src="../assets/BattleoftheScheldt/media/image23.jpeg"
+<img src="assets/BattleoftheScheldt/media/image23.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A grassy area with a body of water and a boat in the distance Description automatically generated" />
 
 The height of the dike is difficult to see in this picture, but the top
 of the dike is about 30 feet above the water level.
 
-<img src="../assets/BattleoftheScheldt/media/image24.jpeg"
+<img src="assets/BattleoftheScheldt/media/image24.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A path with grass and water in the background Description automatically generated" />
 
@@ -275,11 +275,11 @@ The opening of a second front led to the capture of Hoofdplaat 2 days
 later, and further squeezed the Germans. A memorial to the
 9<sup>th</sup> Brigade crossing is located close to the landing points.
 
-<img src="../assets/BattleoftheScheldt/media/image25.jpeg"
+<img src="assets/BattleoftheScheldt/media/image25.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A stone monument with a plaque Description automatically generated" />
 
-<img src="../assets/BattleoftheScheldt/media/image26.jpeg"
+<img src="assets/BattleoftheScheldt/media/image26.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A brick wall with a metal plaque Description automatically generated" />
 
@@ -290,14 +290,14 @@ level) separated by a series of dikes. A period map of the area shows
 the layout. This is a largely agricultural area with a collection of
 small villages.
 
-<img src="../assets/BattleoftheScheldt/media/image27.jpg"
+<img src="assets/BattleoftheScheldt/media/image27.jpg"
 style="width:6.02073in;height:4.13486in"
 alt="A map of a city Description automatically generated" />
 
 A view from the Scheldt dike shows the field conditions. The field had
 been recently tilled, but there had been no rain in several days.
 
-<img src="../assets/BattleoftheScheldt/media/image28.jpeg"
+<img src="assets/BattleoftheScheldt/media/image28.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A field with a fence and grass Description automatically generated with medium confidence" />
 
@@ -308,7 +308,7 @@ it difficult for the soldiers to progress, so they also traveled on the
 dikes, silhouetting themselves and making easy targets.The dikes were
 also great locations for the enemy to dig in.
 
-<img src="../assets/BattleoftheScheldt/media/image29.jpg"
+<img src="assets/BattleoftheScheldt/media/image29.jpg"
 style="width:4.41177in;height:3.09559in"
 alt="Soldiers in the trench of a ditch Description automatically generated" />
 
@@ -323,11 +323,11 @@ advantage. For most of the battle the ratio was 1 to 1 or lower for the
 Allies, so their success was due to dogged determination and sacrifice.
 A view from the top of the dike near the bunker.
 
-<img src="../assets/BattleoftheScheldt/media/image30.jpeg"
+<img src="assets/BattleoftheScheldt/media/image30.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A field of grass and trees Description automatically generated" />
 
-<img src="../assets/BattleoftheScheldt/media/image31.jpg"
+<img src="assets/BattleoftheScheldt/media/image31.jpg"
 style="width:6.5in;height:4.89444in"
 alt="A dirt road with grass and trees Description automatically generated" />
 
@@ -356,11 +356,11 @@ of this mine clearing technique and believe the explosion of 3 tons of
 Nitroglycerine probably lessened enthusiasm for this approach. A
 memorial was raised to commemorate the explosion.
 
-<img src="../assets/BattleoftheScheldt/media/image32.jpeg"
+<img src="assets/BattleoftheScheldt/media/image32.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A grave stone with flowers in front of it Description automatically generated" />
 
-<img src="../assets/BattleoftheScheldt/media/image33.jpeg"
+<img src="assets/BattleoftheScheldt/media/image33.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A stone plaque on a brick wall Description automatically generated" />
 
@@ -371,7 +371,7 @@ shelling and bombing from the Air Force that leveled the town, the fort
 held out until 25 October when the remaining garrison of 3,000 troops
 surrendered. The fort was demolished in the assault and never rebuilt.
 
-<img src="../assets/BattleoftheScheldt/media/image34.jpeg"
+<img src="assets/BattleoftheScheldt/media/image34.jpeg"
 style="width:6.5in;height:5.73333in"
 alt="An aerial view of a beach Description automatically generated" />
 
@@ -380,7 +380,7 @@ road maintains the distinctive Star formation. Breskens is now a resort
 town with many condos and apartment buildings, but no monuments possibly
 indicating their displeasure with the battle.
 
-<img src="../assets/BattleoftheScheldt/media/image35.JPG"
+<img src="assets/BattleoftheScheldt/media/image35.JPG"
 style="width:5.91667in;height:5.475in"
 alt="An aerial view of a city Description automatically generated" />
 
@@ -394,12 +394,12 @@ walk last year, see the
 [post](https://www.paulsbattlefieldtours.com/post/canadian-liberation-march)
 and will be part of the Canadian Contingent again this year.
 
-<img src="../assets/BattleoftheScheldt/media/image36.jpeg"
+<img src="assets/BattleoftheScheldt/media/image36.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 At the same point is the first marker that defines the liberation route.
 
-<img src="../assets/BattleoftheScheldt/media/image37.jpeg"
+<img src="assets/BattleoftheScheldt/media/image37.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A stone plaque on a brick wall Description automatically generated" />
 

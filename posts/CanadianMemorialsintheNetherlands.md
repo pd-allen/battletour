@@ -1,7 +1,7 @@
 # CanadianMemorialsintheNetherlands
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image1.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image1.png"
 style="width:6.5in;height:4.01181in"
 alt="A map of a train station AI-generated content may be incorrect." />
 
@@ -23,7 +23,7 @@ you to click on each point for more details. Click on the layer icon to
 turn on or off the points and lines for each entry.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image2.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image2.png"
 style="width:6.5in;height:3.52847in"
 alt="A map with points on it AI-generated content may be incorrect." />
 
@@ -44,14 +44,14 @@ A plaque outside the building where the documents were signed
 commemorates the event.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image3.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image3.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A sign on a brick wall AI-generated content may be incorrect." />
 
 The details are shown below.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image4.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image4.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A plaque on a brick wall AI-generated content may be incorrect." />
 
@@ -63,7 +63,7 @@ Netherlands Best Cheese Shop competition. I liked the fact that the fake
 cow was tied to a real post.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image5.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image5.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A cow statue on a street AI-generated content may be incorrect." />
 
@@ -75,12 +75,12 @@ proceeding to Apeldoorn. The Princess Patricia Canadian Light Infantry
 Armoured vehicles, establishing a beachhead.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image6.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image6.png"
 style="width:6.35417in;height:7.42708in"
 alt="A map of a military route AI-generated content may be incorrect." />
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image7.jpg"
+src="assets/CanadianMemorialsintheNetherlands/media/image7.jpg"
 style="width:6.5in;height:6.83056in"
 alt="A tank on a rocky hill AI-generated content may be incorrect." />
 
@@ -88,7 +88,7 @@ The engineers quickly constructed a pontoon bridge under heavy fire,
 suffering 17 casualties. Tanks were floated across the river on Rafts.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image8.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image8.png"
 style="width:6.5in;height:3.91806in"
 alt="A group of people on a tank AI-generated content may be incorrect." />
 
@@ -99,14 +99,14 @@ civilian population was ecstatic and crowded the streets to greet the
 liberators.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image9.jpg"
+src="assets/CanadianMemorialsintheNetherlands/media/image9.jpg"
 style="width:6.5in;height:4.88819in"
 alt="A group of people standing on a sidewalk AI-generated content may be incorrect." />
 
 The 48<sup>th</sup> Highlanders Pipe Band paraded through the streets.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image10.jpg"
+src="assets/CanadianMemorialsintheNetherlands/media/image10.jpg"
 style="width:6.5in;height:8.59931in"
 alt="A group of people marching in a street AI-generated content may be incorrect." />
 
@@ -125,28 +125,28 @@ of liberation" and eternal gratitude of the Dutch people to the
 Canadians who helped free them from Nazi occupation.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image11.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image11.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A statue of a person holding flowers AI-generated content may be incorrect." />
 
 The memorial plaque that accompanies the statue.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image12.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image12.png"
 style="width:6.5in;height:3.85486in"
 alt="A plaque with text on it AI-generated content may be incorrect." />
 
 The text of the plaque.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image13.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image13.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A red sign with text on it AI-generated content may be incorrect." />
 
 There is a companion statue in Commissioner’s Park at Dow’s Lake Ottawa.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image14.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image14.jpeg"
 style="width:6.5in;height:8.66667in"
 alt="A statue of a person holding a hat AI-generated content may be incorrect." />
 
@@ -154,14 +154,14 @@ I visited the Ottawa statue with my good buddy Jim Pickell in May 2022.
 Two men with two hats, but the sentiment is clear!
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image15.jpg"
+src="assets/CanadianMemorialsintheNetherlands/media/image15.jpg"
 style="width:6.5in;height:8.66667in"
 alt="Two men standing in front of a statue AI-generated content may be incorrect." />
 
 Jim’s wife Su appreciating the tulips.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image16.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image16.jpeg"
 style="width:6.5in;height:8.66667in"
 alt="A person kneeling in a garden AI-generated content may be incorrect." />
 
@@ -172,7 +172,7 @@ The Groesbeek Canadian War Cemetery contains 2,619 burials, including
 1,000 Commonwealth Soldiers with no known grave.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image17.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image17.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A stone with text on it AI-generated content may be incorrect." />
 
@@ -180,7 +180,7 @@ As with all of the Commonwealth War Grave Commission sites, the grounds
 are immaculate.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image18.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image18.png"
 style="width:6.5in;height:4.89444in"
 alt="A cemetery with many gravestones AI-generated content may be incorrect." />
 
@@ -189,7 +189,7 @@ Trooper John Wallace. Wallace was one of the original 8th Hussars having
 served in the Militia before the war. He made it all the way through
 Italy and the Netherlands, only to be killed at Putten on 17 April,
 three weeks before the end of the War.<img
-src="../assets/CanadianMemorialsintheNetherlands/media/image19.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image19.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A tombstone with a leaf and a cross AI-generated content may be incorrect." />
 
@@ -207,7 +207,7 @@ missing for some time as the statements from the former Prisoners of War
 were not taken until after their release.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image20.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image20.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A tombstone with a leaf and cross AI-generated content may be incorrect." />
 
@@ -243,7 +243,7 @@ curious about how he was killed after the war was over, so I looked him
 up.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image21.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image21.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A tombstone with a cross on it AI-generated content may be incorrect." />
 
@@ -295,7 +295,7 @@ Just down the road from the Groesbeek Cemetery is the memorial to the
 82<sup>nd</sup> Airborne.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image22.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image22.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A metal object on a brick path AI-generated content may be incorrect." />
 
@@ -314,7 +314,7 @@ The memorial is inscribed on both sides. On one it states:
 > to realise your ideals.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image23.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image23.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A close-up of a metal pole AI-generated content may be incorrect." />
 
@@ -344,7 +344,7 @@ counterattack caused many casualties. A memorial to the dead was
 established.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image24.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image24.png"
 style="width:6.5in;height:8.63264in"
 alt="A stone with text on it AI-generated content may be incorrect." />
 
@@ -354,28 +354,28 @@ Dying for freedom is not the worst that could happen, being forgotten
 is.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image25.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image25.png"
 style="width:6.5in;height:4.89444in"
 alt="A grave stone with words on it AI-generated content may be incorrect." />
 
 A plaque commemorates all of the QOR losses in the Netherlands campaign.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image26.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image26.png"
 style="width:6.5in;height:4.89444in"
 alt="A plaque with text on it AI-generated content may be incorrect." />
 
 The memorial is at small crossroads in Rha.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image27.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image27.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of trees in a field AI-generated content may be incorrect." />
 
 A windmill overlooks the memorial.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image28.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image28.png"
 style="width:6.5in;height:4.89444in"
 alt="A windmill in a field AI-generated content may be incorrect." />
 
@@ -389,7 +389,7 @@ LGen Guy Simmonds chose the site for the cemetery as it reminded him of
 woods in Ontario.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image29.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image29.png"
 style="width:6.5in;height:4.89444in"
 alt="A brick wall with a sign and plants in it AI-generated content may be incorrect." />
 
@@ -397,14 +397,14 @@ In late May when I visited, the cemetery was ringed with flowering
 shrubs in full bloom.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image30.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image30.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of pink flowers AI-generated content may be incorrect." />I
 was visiting a few days after Liberation Day, so all of the flowers and
 wreaths from the ceremonies still remained.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image31.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image31.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people standing in a field AI-generated content may be incorrect." />
 
@@ -424,7 +424,7 @@ I came across the picture of Lorimer Lee Johnson of the Argylls, killed
 on 21 April 1945.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image32.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image32.png"
 style="width:6.5in;height:8.63264in"
 alt="A grave stone with a picture of a leaf on it AI-generated content may be incorrect." />
 
@@ -438,7 +438,7 @@ His information is given below.
 **Johnson, Lorimer L.**
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image33.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image33.jpeg"
 style="width:2.8644in;height:4.15337in"
 alt="A close-up of a person smiling AI-generated content may be incorrect." />
 
@@ -501,7 +501,7 @@ After five years of occupation and four days of heavy fighting, the city
 of Groningen was liberated by the Canadians on the 16th of April 1945.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image34.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image34.png"
 style="width:6.5in;height:4.325in"
 alt="A map of a city AI-generated content may be incorrect." />
 
@@ -524,7 +524,7 @@ the inner city. These positions were overcome by manoeuvring tanks into
 position to destroy the buildings occupied by German Troops.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image35.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image35.jpeg"
 style="width:6.20859in;height:4.62731in"
 alt="A destroyed building with rubble on the ground AI-generated content may be incorrect." />
 
@@ -552,7 +552,7 @@ Canadians by planting over 30,000 maple trees.
 
 Canadian Governor General Romeo Leblanc and Queen Beatrix of the
 Netherlands dedicated the park by planting trees on 22 March 1996.<img
-src="../assets/CanadianMemorialsintheNetherlands/media/image36.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image36.png"
 style="width:6.5in;height:8.63264in"
 alt="A stone post with a red square with a white text on it AI-generated content may be incorrect." />
 
@@ -560,7 +560,7 @@ Every year new trees are planted on Liberation Day, and local residents
 sponsor the new plantings to replace damaged or fallen Maples.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image37.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image37.png"
 style="width:6.5in;height:8.63264in"
 alt="A stone sign with a blue and white design on it AI-generated content may be incorrect." />
 
@@ -572,7 +572,7 @@ There is a memorial stone listing all 23 of the Second Canadian Division
 Units who fought in the liberation of Groningen.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image38.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image38.png"
 style="width:6.5in;height:4.89444in"
 alt="A stone wall with flowers on it AI-generated content may be incorrect." />
 
@@ -580,7 +580,7 @@ The central area near the memorial features a giant maple leaf
 surrounded by benches.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image39.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image39.png"
 style="width:6.5in;height:4.89444in"
 alt="A circular stone circle with a maple leaf in the middle AI-generated content may be incorrect." />
 
@@ -589,7 +589,7 @@ picture was taken some time ago, as there are now many more trees on the
 tip of the maple leaf.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image40.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image40.png"
 style="width:6.5in;height:3.51875in"
 alt="A pond in a grassy area AI-generated content may be incorrect." />
 
@@ -604,12 +604,12 @@ for freedom and rights of the child, as well as a never-ending appeal of
 society to protect and defend our liberty.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image41.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image41.png"
 style="width:6.5in;height:4.89444in"
 alt="A metal sculpture in a pond AI-generated content may be incorrect." />
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image42.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image42.png"
 style="width:6.5in;height:4.89444in"
 alt="A pond with a leaf in it AI-generated content may be incorrect." />
 
@@ -619,7 +619,7 @@ from 10 different countries describing the UN listed rights of a child.
 The first stone says Children have the right to their own culture.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image43.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image43.png"
 style="width:6.5in;height:8.63264in"
 alt="A stone block with text on it AI-generated content may be incorrect." />
 
@@ -670,7 +670,7 @@ This stone says Children have the right for protection against child
 labour.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image44.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image44.png"
 style="width:6.5in;height:4.89444in"
 alt="A stone with text on it AI-generated content may be incorrect." />
 
@@ -678,7 +678,7 @@ At the end of the trail is an 11<sup>th</sup> stone, Children have the
 right to play outside freely and safely.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image45.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image45.png"
 style="width:6.5in;height:4.89444in"
 alt="A stone on the ground AI-generated content may be incorrect." />
 
@@ -686,7 +686,7 @@ The Dutch certainly take this resolution to heart, there were a ton of
 families walking, cycling and horseback riding throughout the park.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image46.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image46.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people riding horses AI-generated content may be incorrect." />
 
@@ -694,7 +694,7 @@ At the end of the path is a frame with the word Freedom inscribed. All
 you see here is due to the sacrifice of a great many people.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image47.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image47.png"
 style="width:6.5in;height:4.89444in"
 alt="A metal sign with trees in the background AI-generated content may be incorrect." />
 
@@ -711,7 +711,7 @@ counterattack left only 8 men of the company standing. Repeated attacks
 over the next few days were necessary to finally take the village.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image48.jpg"
+src="assets/CanadianMemorialsintheNetherlands/media/image48.jpg"
 style="width:6.5in;height:4.21528in"
 alt="A map of a war AI-generated content may be incorrect." />
 
@@ -723,7 +723,7 @@ at the Operation Canada 19 Canadian Soldiers for our freedom. At the
 going down of the sun, and in the morning, we will remember them.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image49.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image49.png"
 style="width:6.5in;height:4.89444in"
 alt="A grave stone with a sign and flowers in a grassy field AI-generated content may be incorrect." />
 
@@ -735,7 +735,7 @@ fields. The infantry repeatedly had to attack over open ground with only
 occasional smoke screens to cover their advances.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image50.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image50.png"
 style="width:6.5in;height:4.89444in"
 alt="A large field of grass AI-generated content may be incorrect." />
 
@@ -749,7 +749,7 @@ Glengarry Highlanders (SDG) and North Nova Scotia Highlanders (NNSH) of
 9<sup>th</sup> Brigade attacking from the South.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image51.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image51.png"
 style="width:6.5in;height:5.49722in"
 alt="A map of a battle AI-generated content may be incorrect." />
 
@@ -761,7 +761,7 @@ battalion, the enemy troops, many of whom were “teen-aged youngsters,”
 fiercely resisted during the Battle of Zutphen.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image52.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image52.jpeg"
 style="width:6.10429in;height:4.59189in"
 alt="A group of soldiers in a raft AI-generated content may be incorrect." />
 
@@ -788,7 +788,7 @@ Hitler and Nazism was still unshaken. The battle for the city of Zutphen
 claimed the lives of 73 Canadian soldiers.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image53.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image53.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A metal fence with a sign on it AI-generated content may be incorrect." />
 
@@ -821,7 +821,7 @@ intense battles the 9<sup>th</sup> Brigade took Warnsveld. A memorial to
 the Canadians lists the soldiers killed in this action.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image54.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image54.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A brick pillar with black plaque AI-generated content may be incorrect." />
 
@@ -830,7 +830,7 @@ Highlanders Highland Light Infantry of Canada and the 2<sup>nd</sup>
 Division Essex Scottish are listed on the left panel.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image55.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image55.png"
 style="width:6.5in;height:8.63264in"
 alt="A black stone with white writing on it AI-generated content may be incorrect." />
 
@@ -838,7 +838,7 @@ The middle lists the lost of the Stormont, Dundas and Glengarry
 Highlanders of 9<sup>th</sup> Brigade.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image56.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image56.png"
 style="width:6.5in;height:8.63264in"
 alt="A black stone with white text on it AI-generated content may be incorrect." />
 
@@ -846,7 +846,7 @@ The right panel lists the killed from the Armoured Regiment and support
 units.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image57.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image57.png"
 style="width:6.5in;height:8.63264in"
 alt="A black stone with white engraved text AI-generated content may be incorrect." />
 
@@ -876,7 +876,7 @@ He was awarded the Victoria Cross for his Actions. His estate was
 awarded \$250 for his receipt of the VC.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image58.jpg"
+src="assets/CanadianMemorialsintheNetherlands/media/image58.jpg"
 style="width:4.61458in;height:7.20833in"
 alt="A person in a military uniform AI-generated content may be incorrect." />
 
@@ -923,7 +923,7 @@ officers. A plaque is mounted on the side of a barn where the action
 took place.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image59.jpeg"
+src="assets/CanadianMemorialsintheNetherlands/media/image59.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A sign on a brick wall AI-generated content may be incorrect." />
 
@@ -932,7 +932,7 @@ Legion Branch 005 Liberation of the Netherlands, the only local Legion
 branch.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image60.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image60.png"
 style="width:6.5in;height:8.63264in"
 alt="A stone plaque on a brick wall AI-generated content may be incorrect." />
 
@@ -940,7 +940,7 @@ The plaque is mounted on a barn in an isolated farmyard, down a single
 lane road.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image61.png"
+src="assets/CanadianMemorialsintheNetherlands/media/image61.png"
 style="width:6.5in;height:4.89444in"
 alt="A house with cars parked in front of it AI-generated content may be incorrect." />
 
@@ -950,7 +950,7 @@ After the war, he was reinterred at Groesbeek Canadian War Cemetery,
 plot VIII.H.2.
 
 <img
-src="../assets/CanadianMemorialsintheNetherlands/media/image62.jpg"
+src="assets/CanadianMemorialsintheNetherlands/media/image62.jpg"
 style="width:3.23313in;height:6.43425in"
 alt="A tombstone with a leaf and a cross AI-generated content may be incorrect." />
 

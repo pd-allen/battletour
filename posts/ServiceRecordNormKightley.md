@@ -1,6 +1,6 @@
 # ServiceRecordNormKightley
 
-<img src="../assets/ServiceRecordNormKightley/media/image1.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image1.jpg"
 style="width:4.29028in;height:7.59383in"
 alt="A person in uniform standing on a sidewalk Description automatically generated" />
 
@@ -42,11 +42,11 @@ On 02 April 1941, while posted to Camp Borden, Norm married Marjorie Ada
 Mary Johnston. She lived in Barrie and when Norm went over seas,
 Marjorie worked in a munitions factory.
 
-<img src="../assets/ServiceRecordNormKightley/media/image2.png"
+<img src="assets/ServiceRecordNormKightley/media/image2.png"
 style="width:4.06307in;height:6.73011in"
 alt="A person and person in military uniforms Description automatically generated" />
 
-<img src="../assets/ServiceRecordNormKightley/media/image3.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image3.jpeg"
 style="width:6.5in;height:3.24514in" />
 
 <table>
@@ -265,7 +265,7 @@ in 1917 by the US but never used. To circumvent the neutrality laws, he
 purchased the tanks as scrap metal and had them shipped to the
 non-existent Camp Borden foundry.
 
-<img src="../assets/ServiceRecordNormKightley/media/image4.png"
+<img src="assets/ServiceRecordNormKightley/media/image4.png"
 style="width:6.5in;height:4.1375in"
 alt="A person in a tank Description automatically generated" />
 
@@ -278,7 +278,7 @@ in training. Canada manufactured over 1,400 Valentine Tanks, but almost
 all of them were provided to Russia as part of the Lend/Lease program to
 equip Russian forces.
 
-<img src="../assets/ServiceRecordNormKightley/media/image5.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image5.jpeg"
 style="width:6.00114in;height:4.00114in"
 alt="A military tank in a room Description automatically generated" />
 
@@ -344,7 +344,7 @@ end of September and made their way to Halifax, where they boarded the
 converted passenger liner Monarch of Bermuda. On October 9, the regiment
 set sail with the rest of their division.
 
-<img src="../assets/ServiceRecordNormKightley/media/image6.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image6.jpg"
 style="width:6.5in;height:8.20694in"
 alt="A map of the united kingdom Description automatically generated" />
 
@@ -364,7 +364,7 @@ tanks. In March 1942 they received the Canadian built Ram I tank, the
 first tanks that were capable of being taken into battle. The Ram II
 tank shown at Camp Borden.
 
-<img src="../assets/ServiceRecordNormKightley/media/image7.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image7.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A green tank in a room AI-generated content may be incorrect." />
 
@@ -372,7 +372,7 @@ The Ram Tank was never used in combat. The US and British had
 standardized on the Sherman Tank and the Canadians followed suit. A
 schematic of the Ram II tank, used extensively in training.
 
-<img src="../assets/ServiceRecordNormKightley/media/image8.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image8.jpeg"
 style="width:6.5in;height:2.525in"
 alt="A person standing next to a tank AI-generated content may be incorrect." />
 
@@ -434,20 +434,20 @@ The Hussars began receiving Sherman tanks in 1943 and after a number of
 exercises and training, returned to Liverpool for overseas deployment.
 An 8<sup>th</sup> Hussars tank heading to the Gothic Line, Italy.
 
-<img src="../assets/ServiceRecordNormKightley/media/image9.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image9.jpg"
 style="width:6.5in;height:4.86389in"
 alt="A person working on a tank AI-generated content may be incorrect." />
 
 The Sherman tank had a crew of 5: Driver, Co-Driver (Machine Gunner),
 Gunner, Loader and Crew Commander.
 
-<img src="../assets/ServiceRecordNormKightley/media/image10.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image10.jpeg"
 style="width:6.5in;height:3.16528in"
 alt="A diagram of a military vehicle AI-generated content may be incorrect." />
 
 Top View of the Sherman tank.
 
-<img src="../assets/ServiceRecordNormKightley/media/image11.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image11.jpeg"
 style="width:6.5in;height:3.25278in"
 alt="A video game screen capture AI-generated content may be incorrect." />
 
@@ -455,7 +455,7 @@ Most of the time, the Commander stood with his head out the hatch for
 situational awareness. This gave him improved visibility but made him
 much more vulnerable to enemy fire.
 
-<img src="../assets/ServiceRecordNormKightley/media/image12.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image12.jpg"
 style="width:6.5in;height:8.20208in"
 alt="A group of people on a tank AI-generated content may be incorrect." />
 
@@ -484,7 +484,7 @@ temporarily stopping in Algiers, North Africa, in late November while
 the advance party sailed to Naples to establish a camp at Matera in
 southern Italy.
 
-<img src="../assets/ServiceRecordNormKightley/media/image13.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image13.jpg"
 style="width:6.5in;height:3.96181in"
 alt="A large ship on the water AI-generated content may be incorrect." />
 
@@ -501,13 +501,13 @@ their tanks.
 The map shows the 8<sup>th</sup> Hussars progress through Italy for the
 entire campaign.
 
-<img src="../assets/ServiceRecordNormKightley/media/image14.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image14.jpg"
 style="width:6.5in;height:8.46528in"
 alt="A map of italy with black text Description automatically generated" />
 
 ## Interactive Map 8th Hussars in Italy December 1943 - February 1945
 
-<img src="../assets/ServiceRecordNormKightley/media/image15.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image15.jpg"
 style="width:6.5in;height:4.95694in"
 alt="A map of the world AI-generated content may be incorrect." />
 
@@ -558,7 +558,7 @@ was just as well.
 > field where we'd done our firing. They were every bit as accurate as
 > we were, too. But by that time, we were back in our own mudholes.”*
 
-<img src="../assets/ServiceRecordNormKightley/media/image16.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image16.jpg"
 style="width:6.5in;height:6.43472in"
 alt="A group of men in military uniforms AI-generated content may be incorrect." />
 
@@ -583,7 +583,7 @@ out of the ground with a gun slit cut into the side facing the line of
 the enemy advance. This pillbox is worse for wear and tear but provides
 an indication of the difficulty of taking out the structure.
 
-<img src="../assets/ServiceRecordNormKightley/media/image17.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image17.jpg"
 style="width:6.5in;height:4.10417in"
 alt="A large metal object with holes in it AI-generated content may be incorrect." />
 
@@ -598,7 +598,7 @@ buildings were tied into the defensive line. Many farmhouses and
 buildings in villages had inner shelters built at ground level to
 provide protection from artillery fire.
 
-<img src="../assets/ServiceRecordNormKightley/media/image18.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image18.jpg"
 style="width:6.5in;height:4.43194in"
 alt="A map of a coastal area AI-generated content may be incorrect." />
 
@@ -615,7 +615,7 @@ fire until the tanks were less than 100 yards away and one Panzer turret
 is said to have accounted for 13 tanks before an armour-piercing shell
 struck its magazine.
 
-<img src="../assets/ServiceRecordNormKightley/media/image19.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image19.jpeg"
 style="width:6.23844in;height:3.64942in"
 alt="A person sitting next to a large cannon AI-generated content may be incorrect." />
 
@@ -640,7 +640,7 @@ the rubble. Indian and New Zealand troops attempted to take Monte
 Cassino but suffered very heavy casualties and were turned back by
 rugged terrain and a stiff defence by German paratroopers.
 
-<img src="../assets/ServiceRecordNormKightley/media/image20.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image20.jpeg"
 style="width:6.5in;height:5.87708in"
 alt="A truck driving down a road AI-generated content may be incorrect." />
 
@@ -663,7 +663,7 @@ Line was made by the British, French, Polish and American Corps. The
 Canadian Corps was held in reserve to attack the Hitler Line once the
 Gustav was finally taken.
 
-<img src="../assets/ServiceRecordNormKightley/media/image21.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image21.jpeg"
 style="width:6.5in;height:3.03958in"
 alt="A map of a map AI-generated content may be incorrect." />
 
@@ -677,7 +677,7 @@ not allowed to rejoin the Canadian Corps. LGen Leese, Commander of XXX
 Corps, said the Canadians were the best Armoured Brigade in Italy and he
 hung on to them.
 
-<img src="../assets/ServiceRecordNormKightley/media/image22.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image22.jpg"
 style="width:6.5in;height:7.85208in"
 alt="A map of a military route AI-generated content may be incorrect." />
 
@@ -701,14 +701,14 @@ The Italian civilians were very happy to be liberated by Canadians. The
 Canadians shared their rations with the Italians, and the Italians plied
 them with wine.
 
-<img src="../assets/ServiceRecordNormKightley/media/image23.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image23.jpg"
 style="width:6.16038in;height:4.06842in"
 alt="A person on a donkey Description automatically generated" />
 
 The Children flocked around the Canadians in hopes of getting Chocolate
 and treats.
 
-### <img src="../assets/ServiceRecordNormKightley/media/image24.jpg"
+### <img src="assets/ServiceRecordNormKightley/media/image24.jpg"
 style="width:6.04717in;height:4.07097in"
 alt="A group of people in a street Description automatically generated" />Kingsmill Bridge
 
@@ -726,7 +726,7 @@ across from behind. This diagram shows how this simple plan allowed some
 of the first allied tanks to get across the Gari River and infantry to
 follow.
 
-<img src="../assets/ServiceRecordNormKightley/media/image25.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image25.jpeg"
 style="width:5.78736in;height:4.32545in"
 alt="A diagram of a tank AI-generated content may be incorrect." />
 
@@ -754,7 +754,7 @@ bridge and were essential to holding the bridgehead that was the first
 crack in the Gustav Line. He returned in May 2007 for the installation
 of a commemorative plaque marking his efforts.
 
-<img src="../assets/ServiceRecordNormKightley/media/image26.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image26.jpg"
 style="width:6.5in;height:8.66389in"
 alt="A memorial stone with a plaque AI-generated content may be incorrect." />
 
@@ -771,7 +771,7 @@ bridges in Italy and Sicily, covering a total length of more than 55
 miles. These bridges varied in length, with some spanning significant
 distances, such as the 1,126-foot bridge over the Sangro River.
 
-<img src="../assets/ServiceRecordNormKightley/media/image27.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image27.jpg"
 style="width:6.5in;height:6.5in"
 alt="A painting of tanks and tanks on a bridge AI-generated content may be incorrect." />
 
@@ -784,7 +784,7 @@ artillery barrage, including smoke to mask the Infantry positions, from
 further 100 yard lifts every three minutes, a creeping barrage
 reminiscent of World War One.
 
-<img src="../assets/ServiceRecordNormKightley/media/image28.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image28.jpeg"
 style="width:6.5in;height:3.85in"
 alt="A map of a valley AI-generated content may be incorrect." />
 
@@ -798,7 +798,7 @@ tanks did not fare much better, repeatedly being held up by extensive
 mine fields and deadly fire from the anti-tank guns. More than 40 of the
 58 tanks supporting 2<sup>nd</sup> Brigade were lost in the battle.
 
-<img src="../assets/ServiceRecordNormKightley/media/image29.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image29.jpg"
 style="width:6.5in;height:4.11458in"
 alt="A map of the battle of gustav and person AI-generated content may be incorrect." />
 
@@ -829,7 +829,7 @@ officer and 902 Other Rank Casualties, more than half from the
 The 8<sup>th</sup> Hussars on the move up the Liri Valley to press the
 attack after the Hitler Line was taken.
 
-<img src="../assets/ServiceRecordNormKightley/media/image30.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image30.jpeg"
 style="width:6.5in;height:6.74931in"
 alt="A group of military vehicles on a dirt road AI-generated content may be incorrect." />
 
@@ -854,7 +854,7 @@ at the Melfa river. This was the first full scale action for the
 Hussars, and they lost several soldiers in isolated skirmishes with the
 enemy. German wreckage after the taking of the Hitler Line.
 
-<img src="../assets/ServiceRecordNormKightley/media/image31.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image31.jpeg"
 style="width:6.5in;height:6.30972in"
 alt="A military vehicles on a road AI-generated content may be incorrect." />
 
@@ -922,7 +922,7 @@ the Distinguished Service Order (very rare for a Lieutenant) and Major
 Mahony received the Victoria Cross. The citation details his heroic
 actions.
 
-<img src="../assets/ServiceRecordNormKightley/media/image32.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image32.jpg"
 style="width:4.9375in;height:6.14583in"
 alt="A person in a military uniform AI-generated content may be incorrect." />
 
@@ -996,7 +996,7 @@ alt="A person in a military uniform AI-generated content may be incorrect." />
 > in this action will forever be an inspiration to his Regiment and to
 > the Canadian Army.*
 
-<img src="../assets/ServiceRecordNormKightley/media/image33.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image33.jpg"
 style="width:6.5in;height:8.66944in"
 alt="A map of the battle of the canadian army Description automatically generated" />
 
@@ -1050,7 +1050,7 @@ the end of the day.
 The Hussars called in artillery fire on the Germans and the skirmish was
 over in 15 minutes.
 
-<img src="../assets/ServiceRecordNormKightley/media/image34.png"
+<img src="assets/ServiceRecordNormKightley/media/image34.png"
 style="width:6.5in;height:3.77917in"
 alt="A military tank covered in vines AI-generated content may be incorrect." />
 
@@ -1060,7 +1060,7 @@ gullies were heavily mined, and all of the culverts destroyed by the
 retreating Germans, so the infantry went on while the mines were cleared
 and the tanks towed each other across the streams.
 
-<img src="../assets/ServiceRecordNormKightley/media/image35.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image35.jpg"
 style="width:6.5in;height:6.57569in"
 alt="A group of men standing in a muddy river AI-generated content may be incorrect." />
 
@@ -1070,7 +1070,7 @@ policy was to use maximum force whenever the enemy took a stand,
 otherwise the Allies would have to face the same troops at the next
 river crossing.
 
-<img src="../assets/ServiceRecordNormKightley/media/image36.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image36.jpg"
 style="width:6.5in;height:7.81319in"
 alt="A map of the battle of mella Description automatically generated" />
 
@@ -1087,7 +1087,7 @@ destroyed the tank.
 
 Knocked out Panther Tank being inspected after the battle.
 
-<img src="../assets/ServiceRecordNormKightley/media/image37.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image37.jpeg"
 style="width:6.23171in;height:3.51113in"
 alt="A tank in a field AI-generated content may be incorrect." />
 
@@ -1119,19 +1119,19 @@ beaches of Italy and the streets of Rome in preparation for the assault
 on the Gothic Line, the German’s strongest and last defensive line.
 Village near Amalfi.
 
-<img src="../assets/ServiceRecordNormKightley/media/image38.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image38.jpg"
 style="width:6.49187in;height:4.47953in"
 alt="A black and white photo of a hillside town AI-generated content may be incorrect." />
 
 The troops also got extended leave in Rome.
 
-<img src="../assets/ServiceRecordNormKightley/media/image39.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image39.jpg"
 style="width:6.50813in;height:4.10673in"
 alt="A large building with columns and statues AI-generated content may be incorrect." />
 
 Officers visiting the coliseum.
 
-<img src="../assets/ServiceRecordNormKightley/media/image40.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image40.jpg"
 style="width:6.53659in;height:4.44134in"
 alt="A group of men standing in front of a coliseum AI-generated content may be incorrect." />
 
@@ -1145,7 +1145,7 @@ German Divisions in 72 hours to reach the Gothic Line. Norm was promoted
 to Acting Sergeant on 12 August 1944 and serve as a tank commander in B
 Squadron for the remainder of the war.
 
-<img src="../assets/ServiceRecordNormKightley/media/image41.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image41.jpg"
 style="width:6.5in;height:3.84653in"
 alt="A map of the us army Description automatically generated" />
 
@@ -1164,7 +1164,7 @@ completed (with 18 still under construction and seven more projected)
 and 18 out of an intended 46 smaller tank gun turrets (for 1- and 2-cm.
 guns) were ready.
 
-<img src="../assets/ServiceRecordNormKightley/media/image42.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image42.jpg"
 style="width:6.18611in;height:9in"
 alt="A map of the coast of the italian coast AI-generated content may be incorrect." />
 
@@ -1196,7 +1196,7 @@ combat, again capturing the heights from the rear. German reinforcements
 continued to stream into the area, but the counterattacks were defeated
 before they started by devastating artillery fire.
 
-<img src="../assets/ServiceRecordNormKightley/media/image43.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image43.jpg"
 style="width:6.5in;height:7.90972in"
 alt="A map of the battle of the canadian army AI-generated content may be incorrect." />
 
@@ -1261,11 +1261,11 @@ ditch, a burst of coaxial machine-gun fire sent him back to the bottom.
 
 *Painting of the Battle of Coriano Ridge.*
 
-<img src="../assets/ServiceRecordNormKightley/media/image44.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image44.jpeg"
 style="width:6.5in;height:4.26181in"
 alt="A painting of a farm AI-generated content may be incorrect." />
 
-<img src="../assets/ServiceRecordNormKightley/media/image45.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image45.jpg"
 style="width:6.5in;height:5.84653in"
 alt="A map of the battle of coriano Description automatically generated" />
 
@@ -1297,7 +1297,7 @@ engineers cleared paths through the minefields for the tanks. The tanks
 advanced at dawn and joined the infantry. They systematically eliminated
 German strong points, and a heavy artillery barrage broke up a German
 counterattack before it started.
-<img src="../assets/ServiceRecordNormKightley/media/image46.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image46.jpg"
 style="width:6.5in;height:5.79306in"
 alt="A map of the battle of corinth Description automatically generated" />
 
@@ -1317,7 +1317,7 @@ battle of Coriano after 18 consecutive days in combat for the Hussars.
 
 ### Trooper Hills
 
-<img src="../assets/ServiceRecordNormKightley/media/image47.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image47.jpg"
 style="width:1.20079in;height:3.16929in"
 alt="A person in a black coat AI-generated content may be incorrect." />My
 sister Dale and I had researched the three people listed on the Phelps
@@ -1394,7 +1394,7 @@ Coriano Ridge. In 1944, the path between those three burial grounds
 marked an arduous sixteen-day journey through the fire and smoke of
 battle.
 
-<img src="../assets/ServiceRecordNormKightley/media/image48.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image48.jpg"
 style="width:6.5in;height:8.90486in"
 alt="A grave stone with a flag AI-generated content may be incorrect." />
 
@@ -1412,7 +1412,7 @@ the Northumberland Strait off Shediac.
 The regiment held a memorial ceremony to commemorate the 25 members lost
 during the battle.
 
-<img src="../assets/ServiceRecordNormKightley/media/image49.png"
+<img src="assets/ServiceRecordNormKightley/media/image49.png"
 style="width:6.53937in;height:4.43893in"
 alt="A group of soldiers standing in a line AI-generated content may be incorrect." />
 
@@ -1430,7 +1430,7 @@ their entire complement of tanks; 43 of them had been knocked out by
 enemy action. The tanks could be replaced. The problem of human
 replacement was not that simple.
 
-<img src="../assets/ServiceRecordNormKightley/media/image50.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image50.jpeg"
 style="width:6.5in;height:4.54444in"
 alt="A painting of men standing next to a tank AI-generated content may be incorrect." />
 
@@ -1477,7 +1477,7 @@ been patiently drained to create cultivable land— but some patches of
 swamp remained. A floating bridge across the Senio River showing the
 high dikes on banks of the river.
 
-<img src="../assets/ServiceRecordNormKightley/media/image51.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image51.jpg"
 style="width:6.5in;height:4.41736in"
 alt="A train crossing a river AI-generated content may be incorrect." />
 
@@ -1490,7 +1490,7 @@ the Germans one year after the fighting on the Moro and in Ortona. The
 advance was carried forward despite growing shortages of many things,
 among them soldiers and ammunition.
 
-<img src="../assets/ServiceRecordNormKightley/media/image52.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image52.jpg"
 style="width:6.5in;height:3.63264in"
 alt="A group of men standing in a trench AI-generated content may be incorrect." />
 
@@ -1535,7 +1535,7 @@ raging rivers that often overflowed its banks. The rapid flooding of the
 Marecchio River is evident as the Bailey Bridge is swamped in a few
 hours.
 
-<img src="../assets/ServiceRecordNormKightley/media/image53.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image53.jpg"
 style="width:6.5in;height:4.85972in"
 alt="A black and white photo of a lake AI-generated content may be incorrect." />
 
@@ -1563,7 +1563,7 @@ Hussars’ operational capability.
 > she was running when he left. Another man, sent up as a gunner, didn't
 > know the difference between a 75 and a Browning.”*
 
-<img src="../assets/ServiceRecordNormKightley/media/image54.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image54.jpg"
 style="width:6.5in;height:4.81111in"
 alt="A tank stuck in a ditch AI-generated content may be incorrect." />
 
@@ -1581,7 +1581,7 @@ their orders came through. They were to take their place in the line and
 strike on to the town of Mezzano, some eight miles along Highway 16 from
 Ravenna.
 
-<img src="../assets/ServiceRecordNormKightley/media/image55.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image55.jpg"
 style="width:6.5in;height:4.44653in"
 alt="A map of the battle of lamont AI-generated content may be incorrect." />
 
@@ -1631,7 +1631,7 @@ The Hussars had Christmas dinner heavily stocked from their scrounging:
 > the others as it could be, but it got off without a scratch. That's
 > the way it seemed to be with shelling.”*
 
-<img src="../assets/ServiceRecordNormKightley/media/image56.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image56.jpg"
 style="width:6.15347in;height:9in"
 alt="A map of a battle AI-generated content may be incorrect." />
 
@@ -1796,7 +1796,7 @@ The Hussars went back into Corps Reserve in Cervia. They spent several
 weeks, cleaning up, training and going on leave. On 28 January, they had
 a memorial service for the 42 Hussars who lay buried in Italy.
 
-<img src="../assets/ServiceRecordNormKightley/media/image57.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image57.jpg"
 style="width:6.5in;height:4.09722in"
 alt="A map of the italian front AI-generated content may be incorrect." />
 
@@ -1873,13 +1873,13 @@ evidenced by a Hussar letter home:
 The Hussars departed the port of Leghorn (Livorno) Italy, west of
 Florence, on 17 Feb 1945.
 
-<img src="../assets/ServiceRecordNormKightley/media/image58.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image58.jpeg"
 style="width:6.5in;height:4.92153in"
 alt="A group of tanks in a field Description automatically generated" />
 
 **<u>Tanks Ready for Embarkation</u>**
 
-<img src="../assets/ServiceRecordNormKightley/media/image59.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image59.jpeg"
 style="width:6.5in;height:5.03472in"
 alt="A military ship with people standing next to it Description automatically generated" />
 
@@ -1890,25 +1890,25 @@ rail and road to Roulers, Belgium. An 8<sup>th</sup> Hussar ship
 entering Marseilles, wending its way through the wrecks and the damaged
 harbour.
 
-<img src="../assets/ServiceRecordNormKightley/media/image60.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image60.jpeg"
 style="width:6.5in;height:5.27917in"
 alt="A ship in a harbor AI-generated content may be incorrect." />
 
 Unloading the tanks in Marseilles.
 
-<img src="../assets/ServiceRecordNormKightley/media/image61.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image61.jpeg"
 style="width:6.5in;height:5.03889in"
 alt="A group of people standing around a tank AI-generated content may be incorrect." />
 
 Transporting the tanks across France and into Belgium.
 
-<img src="../assets/ServiceRecordNormKightley/media/image62.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image62.jpeg"
 style="width:6.5in;height:5.12986in"
 alt="A train tracks with tanks on it AI-generated content may be incorrect." />
 
 ## Interactive Map Europe February to May 1945
 
-<img src="../assets/ServiceRecordNormKightley/media/image63.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image63.jpg"
 style="width:6.5in;height:7.79861in"
 alt="A map with red points AI-generated content may be incorrect." />
 
@@ -1937,7 +1937,7 @@ three separate offensives. The 3rd Division pushed up the Western Flank,
 2nd and 5th Division up the middle and the 4th Armoured Division up the
 Eastern flank and into Germany.
 
-<img src="../assets/ServiceRecordNormKightley/media/image64.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image64.jpg"
 style="width:6.5in;height:4.01181in"
 alt="A map of a train station AI-generated content may be incorrect." />
 
@@ -1956,20 +1956,20 @@ split the German forces in Holland in two. The 5<sup>th</sup> Division
 only suffered 76 casualties in total while capturing more than 1700
 prisoners.
 
-<img src="../assets/ServiceRecordNormKightley/media/image65.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image65.jpg"
 style="width:6.5in;height:5.04861in"
 alt="A military tank driving through a destroyed building Description automatically generated" />
 
 **<u>Hussar Firefly entering Putten in April 1915.</u>**
 
-<img src="../assets/ServiceRecordNormKightley/media/image66.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image66.jpeg"
 style="width:6.5in;height:5.01319in"
 alt="A map of a battle AI-generated content may be incorrect." />
 
 After a few days’ rest, the Hussars pushed north to Assen, completing
 the 174-mile trek in a single day.
 
-<img src="../assets/ServiceRecordNormKightley/media/image67.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image67.jpeg"
 style="width:6.5in;height:8.45in"
 alt="A map of the european union Description automatically generated" />
 
@@ -1988,7 +1988,7 @@ and canals made cross-country movement impossible. The weather was wet
 and the whole area subject to flooding, which meant that all vehicles
 were confined to roads."
 
-<img src="../assets/ServiceRecordNormKightley/media/image68.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image68.jpeg"
 style="width:5.49333in;height:4.53333in"
 alt="A map of the battle of the british army AI-generated content may be incorrect." />
 
@@ -2012,7 +2012,7 @@ with mines and road demolitions before they could get any supporting
 arms forward." They also endured much shelling, some coming across the
 estuary from the vicinity of Emden. Destroyed port guns near Delfzijl.
 
-<img src="../assets/ServiceRecordNormKightley/media/image69.png"
+<img src="assets/ServiceRecordNormKightley/media/image69.png"
 style="width:6.41259in;height:3.47119in"
 alt="A large machine on a beach AI-generated content may be incorrect." />
 
@@ -2027,7 +2027,7 @@ discarded after clearing the barrel. The remaining projectile is much
 more aerodynamic than the conventional shell, so impacts the target with
 much higher energy, permitting deeper penetration.
 
-<img src="../assets/ServiceRecordNormKightley/media/image70.png"
+<img src="assets/ServiceRecordNormKightley/media/image70.png"
 style="width:5.63107in;height:2.4099in"
 alt="A diagram of a diagram of a rocket AI-generated content may be incorrect." />
 
@@ -2037,7 +2037,7 @@ and port facilities were wired for demolition, they were captured
 intact. The 5<sup>th</sup> Armoured Division’s 158 casualties were
 lighter than expected.
 
-<img src="../assets/ServiceRecordNormKightley/media/image71.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image71.jpeg"
 style="width:6.5in;height:3.27639in"
 alt="A black and white photo of a building Description automatically generated" />
 
@@ -2186,7 +2186,7 @@ stain upon the human record. Too many good men had died.
 
 ## Support of the Dutch
 
-<img src="../assets/ServiceRecordNormKightley/media/image72.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image72.jpeg"
 style="width:6.45283in;height:3.69117in"
 alt="A group of people posing for a photo Description automatically generated" />
 
@@ -2199,7 +2199,7 @@ the regiment had a pleasant life thanks largely to its good fortune in
 being garrisoned in The Netherlands rather than in truculent and
 devastated Germany.
 
-<img src="../assets/ServiceRecordNormKightley/media/image73.png"
+<img src="assets/ServiceRecordNormKightley/media/image73.png"
 style="width:6.15524in;height:3.7534in"
 alt="A sign with a number and a crown AI-generated content may be incorrect." />
 
@@ -2210,7 +2210,7 @@ Groningen, Dutch Canadian study clubs and all sorts of personal
 liaisons. Holland was a good and grateful place to be the Hussars made
 the most of it.
 
-<img src="../assets/ServiceRecordNormKightley/media/image74.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image74.jpeg"
 style="width:6.50971in;height:3.67158in"
 alt="A group of people sitting on the grass AI-generated content may be incorrect." />
 
@@ -2236,7 +2236,7 @@ attentions of her Regiment. The Dutch people of Eelde came to call her
 "our horse." Once, seeing the men march by, she leaped the fence and
 joined them. But normally her conduct was far more regal than that.
 
-<img src="../assets/ServiceRecordNormKightley/media/image75.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image75.jpeg"
 style="width:6.45278in;height:4.73513in"
 alt="A person standing on a float with children Description automatically generated" />
 
@@ -2282,20 +2282,20 @@ On the 26th day of January 1946, the regiment came home.
 The town of Eedle became very close to the Hussars, and is still twinned
 with Sussex, NB, home of the Hussars, today.
 
-<img src="../assets/ServiceRecordNormKightley/media/image76.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image76.jpeg"
 style="width:8.66667in;height:6.5in"
 alt="A flag in a glass case Description automatically generated" />
 
 Plaque presented to the citizens of Eedle by the Hussars.
 
-<img src="../assets/ServiceRecordNormKightley/media/image77.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image77.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A plaque with a gold frame Description automatically generated with medium confidence" />
 
 Most of the men had been away from home for 4 years and became very
 close to the people of Eedle. Maj MacDougall with Minica.
 
-<img src="../assets/ServiceRecordNormKightley/media/image78.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image78.jpeg"
 style="width:5.32075in;height:8.4884in"
 alt="A person holding a child Description automatically generated" />
 
@@ -2308,26 +2308,26 @@ accompanied by LGen Charles Foulkes and LGen Guy Simmonds,
 1<sup>st</sup> and 2<sup>nd</sup> Canadian Corps Commanders, and MGen
 Bert Hoffmeister 5<sup>th</sup> Armoured Division Commander.
 
-<img src="../assets/ServiceRecordNormKightley/media/image79.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image79.jpeg"
 style="width:6.5in;height:4.53681in"
 alt="A group of soldiers standing in a line Description automatically generated" />
 
 The final drive past of the reviewing stand.
 
-<img src="../assets/ServiceRecordNormKightley/media/image80.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image80.jpg"
 style="width:6.5in;height:4.98542in"
 alt="A group of tanks driving down a road Description automatically generated" />
 
 The 5<sup>th</sup> Canadian Armoured Division together for the final
 review.
 
-<img src="../assets/ServiceRecordNormKightley/media/image81.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image81.jpeg"
 style="width:6.41954in;height:3.44549in"
 alt="A large field with vehicles in it AI-generated content may be incorrect." />
 
 # Medals 
 
-<img src="../assets/ServiceRecordNormKightley/media/image82.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image82.jpeg"
 style="width:6.5in;height:4.89167in"
 alt="Several medals on a table Description automatically generated" />
 
@@ -2390,7 +2390,7 @@ room.
 
 The signals crew working outside Oba, ON.
 
-<img src="../assets/ServiceRecordNormKightley/media/image83.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image83.jpg"
 style="width:4.875in;height:6.5in"
 alt="A group of people sitting on a car AI-generated content may be incorrect." />
 
@@ -2412,7 +2412,7 @@ their increased exposure to artillery and small arms fire.
 
 Hussars buried in the Netherlands.
 
-<img src="../assets/ServiceRecordNormKightley/media/image84.png"
+<img src="assets/ServiceRecordNormKightley/media/image84.png"
 style="width:6.41472in;height:4.06219in"
 alt="Men standing in a cemetery AI-generated content may be incorrect." />
 
@@ -2516,7 +2516,7 @@ family had the film processed and it contained a number of photos,
 mostly of Harold’s crew. One of the photos potentially includes Uncle
 Norm.
 
-<img src="../assets/ServiceRecordNormKightley/media/image85.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image85.jpg"
 style="width:6.5in;height:4.28125in"
 alt="A group of men in military uniforms AI-generated content may be incorrect." />
 
@@ -2554,7 +2554,7 @@ tank commander in August 1944 and late in the Italian campaign the tanks
 fought with 4 crewmembers instead of 5, due to personnel shortage. Our
 guess that this Norm’s tank Crew.
 
-<img src="../assets/ServiceRecordNormKightley/media/image86.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image86.jpeg"
 style="width:5.83125in;height:9in"
 alt="A group of men in uniform standing in front of a building AI-generated content may be incorrect." />
 
@@ -2602,7 +2602,7 @@ stated:
 
 Her story taken from Steel Calvary by Lee Windsor.
 
-<img src="../assets/ServiceRecordNormKightley/media/image87.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image87.jpeg"
 style="width:6.14151in;height:4.43448in"
 alt="A person standing next to a horse Description automatically generated" />
 
@@ -2627,7 +2627,7 @@ the beginning, she was a true Maritimer in her appreciation of a shot of
 rum.” The foal’s rescue offered a glimpse of peace and hope for the
 future amid a war that was still yet to be won.
 
-<img src="../assets/ServiceRecordNormKightley/media/image88.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image88.jpg"
 style="width:6.20755in;height:4.33754in"
 alt="A person standing next to a horse Description automatically generated" />
 
@@ -2662,43 +2662,43 @@ Princess Louise became legendary. Princess Louise was granted
 Naturalized Citizenship of Canada and proclaimed as a Freewoman of
 Hampton New Brunswick. Here she is at her Citizenship Ceremony.
 
-<img src="../assets/ServiceRecordNormKightley/media/image89.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image89.jpeg"
 style="width:6.5in;height:5.38472in"
 alt="A person and person standing next to a horse AI-generated content may be incorrect." />After
 the ceremony, it was obligatory that Princess Louise go to the
-mess.<img src="../assets/ServiceRecordNormKightley/media/image90.jpeg"
+mess.<img src="assets/ServiceRecordNormKightley/media/image90.jpeg"
 style="width:6.43819in;height:9in"
 alt="A person standing next to a camel AI-generated content may be incorrect." />
 
 Princess Louise was granted status as a Naturalized Canadian.
 
-<img src="../assets/ServiceRecordNormKightley/media/image91.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image91.jpeg"
 style="width:5.88542in;height:8.99223in"
 alt="A close-up of a certificate AI-generated content may be incorrect." />
 
 More importantly, she also signed up as a member of the Hampton, NB
 Legion, with her hoof print signature.
 
-<img src="../assets/ServiceRecordNormKightley/media/image92.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image92.jpeg"
 style="width:6.5in;height:8.32778in"
 alt="A piece of paper with writing on it AI-generated content may be incorrect." />
 
 The medal collection of the first Princess Louise on top of her parade
 blanket.
 
-<img src="../assets/ServiceRecordNormKightley/media/image93.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image93.jpeg"
 style="width:8.66667in;height:6.5in"
 alt="A display of medals and medals on a table AI-generated content may be incorrect." />
 
 Mother and daughter in 1954.
 
-<img src="../assets/ServiceRecordNormKightley/media/image94.JPG"
+<img src="assets/ServiceRecordNormKightley/media/image94.JPG"
 style="width:4.54167in;height:4.45833in"
 alt="A person in military uniform with a horse AI-generated content may be incorrect." />
 
 The second Princess Louise proudly wore this blanket on parade.
 
-<img src="../assets/ServiceRecordNormKightley/media/image95.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image95.jpeg"
 style="width:8.66667in;height:6.5in"
 alt="A framed purple and yellow uniform AI-generated content may be incorrect." />
 
@@ -2706,7 +2706,7 @@ Princess Margaret inspection Princess Louise II in 1958. Princess
 Louise, I served until 1973 and her daughter until 1981. Sadly, Princess
 Louise III passed away shortly after her birth in 1969.
 
-<img src="../assets/ServiceRecordNormKightley/media/image96.jpeg"
+<img src="assets/ServiceRecordNormKightley/media/image96.jpeg"
 style="width:6.5in;height:6.51944in"
 alt="A group of people standing next to a horse AI-generated content may be incorrect." />
 
@@ -2715,7 +2715,7 @@ from 1953 until his death in 2021. Princess Anne is the present Colonel
 In Chief and attended the 175<sup>th</sup> Anniversary of the Regiment
 in 2023.
 
-<img src="../assets/ServiceRecordNormKightley/media/image97.jpg"
+<img src="assets/ServiceRecordNormKightley/media/image97.jpg"
 style="width:6.5in;height:4.33125in"
 alt="A person in red and a red scarf standing in front of a group of soldiers AI-generated content may be incorrect." />
 

@@ -1,6 +1,6 @@
 # LiberationMarch2025
 
-<img src="../assets/LiberationMarch2025/media/image1.png"
+<img src="assets/LiberationMarch2025/media/image1.png"
 style="width:6.5in;height:4.875in"
 alt="A group of people looking at a field AI-generated content may be incorrect." />
 
@@ -12,7 +12,7 @@ by Canadian forces during World War II. It retraces the 33-kilometer
 route taken by the 9th Canadian Infantry Brigade during Operation
 Switchback.
 
-<img src="../assets/LiberationMarch2025/media/image2.png"
+<img src="assets/LiberationMarch2025/media/image2.png"
 style="width:6.5in;height:3.13264in"
 alt="A map of a road AI-generated content may be incorrect." />
 
@@ -23,7 +23,7 @@ and Retranchement before reaching Knokke-Heist. The campaign was marked
 by intense fighting, including the crossing of the Leopold Canal and the
 destruction of towns like Eede by retreating German forces.
 
-<img src="../assets/LiberationMarch2025/media/image3.png"
+<img src="assets/LiberationMarch2025/media/image3.png"
 style="width:6.5in;height:4.33958in"
 alt="A map of a land with a black and white label AI-generated content may be incorrect." />
 
@@ -39,7 +39,7 @@ Second Division of the First Canadian Army cleared the northern bank of
 the Scheldt, the Third Division the Southern bank and the Fourth
 Canadian Armoured Division pushed North of Antwerp.
 
-<img src="../assets/LiberationMarch2025/media/image4.png"
+<img src="assets/LiberationMarch2025/media/image4.png"
 style="width:6.5in;height:4.01111in"
 alt="A map of the battle of the great patriotic war AI-generated content may be incorrect." />
 
@@ -58,7 +58,7 @@ continue to complete the 33km trek today.
 Dany and Dirk leading the For Freedom Museum Pipe band towards the For
 Freedom Museum.
 
-<img src="../assets/LiberationMarch2025/media/image5.png"
+<img src="assets/LiberationMarch2025/media/image5.png"
 style="width:6.5in;height:8.63264in" />
 
 The Liberation March ceremonies took place over3 days. On Friday, the
@@ -71,7 +71,7 @@ On 16 October, the Canadian Scottish supported by tanks and Wasps from
 the British Columbia Regiment took the town of Eede. A memorial
 acknowledges the effort.
 
-<img src="../assets/LiberationMarch2025/media/image6.jpeg"
+<img src="assets/LiberationMarch2025/media/image6.jpeg"
 style="width:6.5in;height:8.63681in" alt="ree" />
 
 The Canadians were relieved on 18 October by the 52nd British (Lowland)
@@ -82,7 +82,7 @@ having men withdrawn due to battle exhaustion.
 The canal is a very peaceful place today; it is difficult to imagine the
 devastation that occurred.
 
-<img src="../assets/LiberationMarch2025/media/image7.jpeg"
+<img src="assets/LiberationMarch2025/media/image7.jpeg"
 style="width:6.5in;height:4.89167in" alt="ree" />
 
 Eede was virtually destroyed by heavy shelling from both sides. The
@@ -92,13 +92,13 @@ multiple booby traps to impede the Canadians’ advance.
 
 Part of the crowd witnessing the service at Eede.
 
-<img src="../assets/LiberationMarch2025/media/image8.png"
+<img src="assets/LiberationMarch2025/media/image8.png"
 style="width:6.5in;height:4.33333in" />
 
 A Memorial service and wreaths were laid at the Eede Memorial to
 commemorate the heavy losses crossing the Leopold Canal.
 
-<img src="../assets/LiberationMarch2025/media/image9.jpeg"
+<img src="assets/LiberationMarch2025/media/image9.jpeg"
 style="width:6.5in;height:4.54514in"
 alt="A sign with flowers and a tank in the background AI-generated content may be incorrect." />
 
@@ -112,14 +112,14 @@ destruction and many victims. The arrival of the Queen symbolized the
 end of years of repression and limitations of liberty and also the
 beginning of a new era of peace and prosperity.
 
-<img src="../assets/LiberationMarch2025/media/image10.png"
+<img src="assets/LiberationMarch2025/media/image10.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people standing around a monument AI-generated content may be incorrect." />
 
 As the troops formed up to march off, the sun finally broke through the
 cloudy sky.
 
-<img src="../assets/LiberationMarch2025/media/image11.jpeg"
+<img src="assets/LiberationMarch2025/media/image11.jpeg"
 style="width:6.5in;height:4.74722in"
 alt="A group of people in military uniforms AI-generated content may be incorrect." />
 
@@ -128,7 +128,7 @@ alt="A group of people in military uniforms AI-generated content may be incorrec
 The military contingent, led by the For Freedom Museum Pipes and Drums
 then marched in Sluis.
 
-<img src="../assets/LiberationMarch2025/media/image12.png"
+<img src="assets/LiberationMarch2025/media/image12.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people standing in front of a building AI-generated content may be incorrect." />
 
@@ -153,7 +153,7 @@ shelling and fighting during the liberation of the Municipality of
 Sluis  
 in the month of October 1944.
 
-<img src="../assets/LiberationMarch2025/media/image13.jpg"
+<img src="assets/LiberationMarch2025/media/image13.jpg"
 style="width:6.23333in;height:4.15763in" />
 
 One of the speakers for the ceremony who read out the names of the
@@ -161,19 +161,19 @@ fallen was a 98-year-old member of the town, who was a teenager when the
 town was liberated. One of the few remaining direct links to the
 conflict.
 
-<img src="../assets/LiberationMarch2025/media/image14.png"
+<img src="assets/LiberationMarch2025/media/image14.png"
 style="width:6.5in;height:4.33333in"
 alt="A person standing at a podium reading a book AI-generated content may be incorrect." />
 
 The pipe band and military members formed up in front of the memorial.
 
-<img src="../assets/LiberationMarch2025/media/image15.jpeg"
+<img src="assets/LiberationMarch2025/media/image15.jpeg"
 style="width:6.5in;height:3.65625in"
 alt="A group of people marching in a parade AI-generated content may be incorrect." />
 
 Dwayne and Glenn laying a wreath in front of the memorial.
 
-<img src="../assets/LiberationMarch2025/media/image16.png"
+<img src="assets/LiberationMarch2025/media/image16.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people kneeling on the ground with flowers AI-generated content may be incorrect." />
 
@@ -181,25 +181,25 @@ Accompanying the troops, as they would throughout the weekend, was an
 honour guard of locals dressed in Canadian Uniforms of the units that
 liberated the region and driving WW2 vehicles.
 
-<img src="../assets/LiberationMarch2025/media/image17.png"
+<img src="assets/LiberationMarch2025/media/image17.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of men holding flags AI-generated content may be incorrect." />
 
 Near the end of the ceremony, a rainbow appeared that we took as a
 symbol of peace.
 
-<img src="../assets/LiberationMarch2025/media/image18.jpeg"
+<img src="assets/LiberationMarch2025/media/image18.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A group of people playing drums in a street AI-generated content may be incorrect." />
 
-<img src="../assets/LiberationMarch2025/media/image19.png"
+<img src="assets/LiberationMarch2025/media/image19.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people in military uniforms AI-generated content may be incorrect." />
 
 The day’s parading over, the military contingent joined the locals for a
 celebratory dinner.
 
-<img src="../assets/LiberationMarch2025/media/image20.png"
+<img src="assets/LiberationMarch2025/media/image20.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people sitting at a table AI-generated content may be incorrect." />
 
@@ -210,7 +210,7 @@ Early Saturday morning, the For Freedom Museum Pipe Band and the
 military contingent form up for a march through downtown Knokke-Heist to
 the Resistance Square Memorial.
 
-<img src="../assets/LiberationMarch2025/media/image21.png"
+<img src="assets/LiberationMarch2025/media/image21.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people in black uniforms marching on a street AI-generated content may be incorrect." />
 
@@ -220,7 +220,7 @@ cheering on the parade.
 After a short march, the first ceremony of the day took place at the
 Knokke-Heist Resistance Square memorial.
 
-<img src="../assets/LiberationMarch2025/media/image22.png"
+<img src="assets/LiberationMarch2025/media/image22.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people standing in a field AI-generated content may be incorrect." />
 
@@ -247,7 +247,7 @@ street fighting and limiting the destruction of Knokke. The capture of
 Knokke-Heist represented the end of German action in the Breskens
 Pocket.
 
-<img src="../assets/LiberationMarch2025/media/image23.png"
+<img src="assets/LiberationMarch2025/media/image23.png"
 style="width:6.5in;height:4.89444in"
 alt="A large rock with flowers around it AI-generated content may be incorrect." />
 
@@ -267,7 +267,7 @@ Church* for Mass and a concert. A church was built on this site in 1227
 and the octagonal tower on a square base was built in 1642. The church
 was heavily damaged during the war and was rebuilt 1955-1958.
 
-<img src="../assets/LiberationMarch2025/media/image24.jpeg"
+<img src="assets/LiberationMarch2025/media/image24.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A building with a clock tower Description automatically generated" />
 
@@ -279,7 +279,7 @@ The pipe band played a number of selections and definitely captured the
 attention of two small children who wriggled their way directly in front
 of the band every time they played.
 
-<img src="../assets/LiberationMarch2025/media/image25.png"
+<img src="assets/LiberationMarch2025/media/image25.png"
 style="width:6.5in;height:8.66667in" />
 
 The musical accompaniment included two very talented singers. In
@@ -325,7 +325,7 @@ boats down a steep bank, paddle across the canal, clamber up the next
 steep bank, cross the middle strip, then back down and up the Leopold
 Canal all under heavy fire.
 
-<img src="../assets/LiberationMarch2025/media/image26.jpeg"
+<img src="assets/LiberationMarch2025/media/image26.jpeg"
 style="width:6.5in;height:8.40764in"
 alt="A map of a city AI-generated content may be incorrect." />
 
@@ -347,7 +347,7 @@ boats crossings, and an entire company was lost to machine gun fire.
 Much of the area beyond the canal had been flooded, so the 7th Brigade
 had a limited area to operate in.
 
-<img src="../assets/LiberationMarch2025/media/image27.jpeg"
+<img src="assets/LiberationMarch2025/media/image27.jpeg"
 style="width:6.5in;height:4.78472in" alt="ree" />
 
 The units eventually linked up but were on a very narrow strip of ground
@@ -358,7 +358,7 @@ about in forward areas except by crawling on the semi flooded ground or
 in water filled ditches, both of which were littered with German and
 Canadian dead.
 
-<img src="../assets/LiberationMarch2025/media/image28.png"
+<img src="assets/LiberationMarch2025/media/image28.png"
 style="width:6.5in;height:4.32222in"
 alt="A map of the battle of leopold AI-generated content may be incorrect." />
 
@@ -394,14 +394,14 @@ forgotten in this area, and I wish more Canadians had the opportunity to
 experience the Liberation March Weekend so they could better appreciate
 extent to which the Canadian Sacrifices are still commemorated.
 
-<img src="../assets/LiberationMarch2025/media/image29.png"
+<img src="assets/LiberationMarch2025/media/image29.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people in uniform walking in a line AI-generated content may be incorrect." />
 
 Two AF North Students reading In Flanders Fields, as part of the
 ceremony.
 
-<img src="../assets/LiberationMarch2025/media/image30.png"
+<img src="assets/LiberationMarch2025/media/image30.png"
 style="width:6.5in;height:4.33333in" />
 
 Last year, teacher Mathieu had prepared cards with the name, picture
@@ -418,7 +418,7 @@ was at Holten Canadian Cemetery, and they had placards for each soldier
 with his picture, unit and a QR code that led to the soldier’s details.
 Hopefully, the joint work will lead to a similar effort at Adegem.
 
-<img src="../assets/LiberationMarch2025/media/image31.png"
+<img src="assets/LiberationMarch2025/media/image31.png"
 style="width:6.5in;height:8.63264in"
 alt="A grave stone with a picture of a leaf and a flag AI-generated content may be incorrect." />
 
@@ -427,7 +427,7 @@ and Percy Mervin, Royal Winnipeg Rifles.
 
 ## Christoper Cadeau
 
-<img src="../assets/LiberationMarch2025/media/image32.jpeg"
+<img src="assets/LiberationMarch2025/media/image32.jpeg"
 style="width:6.07292in;height:8.09722in"
 alt="A person in a uniform Description automatically generated" />
 
@@ -446,12 +446,12 @@ easily have been mine.
 
 A photo of Rachel visiting Christopher’s grave.
 
-<img src="../assets/LiberationMarch2025/media/image33.png"
+<img src="assets/LiberationMarch2025/media/image33.png"
 style="width:6.5in;height:8.63264in" />
 
 # Percy Mervyn
 
-<img src="../assets/LiberationMarch2025/media/image34.png"
+<img src="assets/LiberationMarch2025/media/image34.png"
 style="width:3.96875in;height:8.4375in"
 alt="A close-up of a young person AI-generated content may be incorrect." />
 
@@ -482,20 +482,20 @@ grenades and firing the PIAT for the first time.”
 Percy was killed on 10 October 1944 during the crossing of the Leopold
 Canal at the age of 19, three weeks after joining the regiment.
 
-<img src="../assets/LiberationMarch2025/media/image35.png"
+<img src="assets/LiberationMarch2025/media/image35.png"
 style="width:6.5in;height:8.63264in"
 alt="A person standing in a cemetery AI-generated content may be incorrect." />
 
 The final parade of the day was a march to the For Freedom Museum for a
 well-deserved beer.
 
-<img src="../assets/LiberationMarch2025/media/image36.png"
+<img src="assets/LiberationMarch2025/media/image36.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people walking on a street AI-generated content may be incorrect." />
 
 Flags on the Windmill to celebrate the Canadians.
 
-<img src="../assets/LiberationMarch2025/media/image37.png"
+<img src="assets/LiberationMarch2025/media/image37.png"
 style="width:6.5in;height:8.63264in"
 alt="A windmill with a flag on top of it AI-generated content may be incorrect." />
 
@@ -509,7 +509,7 @@ museum in 2009. The museum is focused on the Canadian involvement in the
 Battle of the Scheldt and features 130 uniformed figures with extremely
 realistic wax heads, mostly dating from the 1930s.
 
-<img src="../assets/LiberationMarch2025/media/image38.png"
+<img src="assets/LiberationMarch2025/media/image38.png"
 style="width:6.5in;height:4.875in"
 alt="A group of mannequins in military uniforms AI-generated content may be incorrect." />
 
@@ -518,7 +518,7 @@ shows members from the Stormont, Dundas and Glengarry Highlanders who
 cleared Breskens, the Algonquin Regiment that got decimated at the
 Leopold Canal, and the Queens Own Rifles who liberated Oostburg.
 
-<img src="../assets/LiberationMarch2025/media/image39.png"
+<img src="assets/LiberationMarch2025/media/image39.png"
 style="width:6.5in;height:8.66667in"
 alt="A mannequins of men in military uniforms AI-generated content may be incorrect." />
 
@@ -534,7 +534,7 @@ sight of the 9<sup>th</sup> Canadian Brigade on 09 October. The marchers
 (military, teachers and families) take photos on the water side of the
 dyke before the kickoff ceremony.
 
-<img src="../assets/LiberationMarch2025/media/image40.png"
+<img src="assets/LiberationMarch2025/media/image40.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people posing for a photo AI-generated content may be incorrect." />
 
@@ -543,41 +543,41 @@ fell during the war. The 80/50 plaque was added last year to commemorate
 the 80<sup>th</sup> anniversary of the liberation and the
 50<sup>th</sup> anniversary f the Liberation March.
 
-<img src="../assets/LiberationMarch2025/media/image41.png"
+<img src="assets/LiberationMarch2025/media/image41.png"
 style="width:6.5in;height:4.875in"
 alt="A stone wall with a sign AI-generated content may be incorrect." />
 
 The first ceremony of the day.
 
-<img src="../assets/LiberationMarch2025/media/image42.png"
+<img src="assets/LiberationMarch2025/media/image42.png"
 style="width:6.5in;height:4.33333in"
 alt="A sign on a brick post AI-generated content may be incorrect." />
 
-<img src="../assets/LiberationMarch2025/media/image43.png"
+<img src="assets/LiberationMarch2025/media/image43.png"
 style="width:6.5in;height:4.33333in"
 alt="A person and person holding flags AI-generated content may be incorrect." />
 
 The WW2 convoy setting off to support the marchers.
 
-<img src="../assets/LiberationMarch2025/media/image44.png"
+<img src="assets/LiberationMarch2025/media/image44.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of military vehicles on a brick road AI-generated content may be incorrect." />
 
 The Marchers head off on their trek.
 
-<img src="../assets/LiberationMarch2025/media/image45.png"
+<img src="assets/LiberationMarch2025/media/image45.png"
 style="width:6.5in;height:8.66667in"
 alt="A group of people walking on a brick street AI-generated content may be incorrect." />
 
 And soon get spread out along the trail.
 
-<img src="../assets/LiberationMarch2025/media/image46.png"
+<img src="assets/LiberationMarch2025/media/image46.png"
 style="width:6.5in;height:4.33333in"
 alt="A path through a grassy area AI-generated content may be incorrect." />
 
 The route markers show the way.
 
-<img src="../assets/LiberationMarch2025/media/image47.png"
+<img src="assets/LiberationMarch2025/media/image47.png"
 style="width:6.5in;height:8.66667in"
 alt="A grave stone with flowers and a ribbon AI-generated content may be incorrect." />
 
@@ -585,7 +585,7 @@ The march winds through an idyllic countryside that shows no evidence of
 the brutal struggle the troops went through to take this ground. A
 freshly plowed field shows the water levels the troops slogged through.
 
-<img src="../assets/LiberationMarch2025/media/image48.png"
+<img src="assets/LiberationMarch2025/media/image48.png"
 style="width:6.5in;height:4.89444in" />
 
 Vehicles and tanks were limited to the roads atop the dykes so this was
@@ -608,14 +608,14 @@ environment.
 > soldier shakes his head, cleans his rifle, swears a good deal and
 > dreams of what he’ll do when he gets LEAVE (if).”*
 
-<img src="../assets/LiberationMarch2025/media/image49.png"
+<img src="assets/LiberationMarch2025/media/image49.png"
 style="width:6.5in;height:4.875in"
 alt="A group of people looking at a field AI-generated content may be incorrect." />
 
 Teachers Jeff, Shannon and Christine chat up one of the many local scout
 groups.
 
-<img src="../assets/LiberationMarch2025/media/image50.png"
+<img src="assets/LiberationMarch2025/media/image50.png"
 style="width:6.5in;height:4.33333in" />
 
 In addition to the military personnel, teachers and families, there is a
@@ -623,7 +623,7 @@ wide range of local hikers who embrace the march. All along the route,
 there are people handing out drinks and snacks and offering up their
 washrooms the to hikers.
 
-<img src="../assets/LiberationMarch2025/media/image51.png"
+<img src="assets/LiberationMarch2025/media/image51.png"
 style="width:6in;height:9in"
 alt="A sign on a pole AI-generated content may be incorrect." />
 
@@ -631,7 +631,7 @@ There were a number of scout, guide and outdoor groups who made the
 trek. There was blaring music, chatting and a great atmosphere among all
 the participants.
 
-<img src="../assets/LiberationMarch2025/media/image52.png"
+<img src="assets/LiberationMarch2025/media/image52.png"
 style="width:6.5in;height:8.66667in"
 alt="A group of people walking on a path AI-generated content may be incorrect." />
 
@@ -639,25 +639,25 @@ The most famous supporter is the Holy Water Lady. During the early years
 of the march, she was told she couldn’t pass out liquor to the marchers,
 so she had the local priest bless her offerings as Holy Water.
 
-<img src="../assets/LiberationMarch2025/media/image53.png"
+<img src="assets/LiberationMarch2025/media/image53.png"
 style="width:6.5in;height:8.66667in"
 alt="A car with a sign on the window AI-generated content may be incorrect." />
 
 Teachers Rachel, Christine, Jeff and Shantal receive the Holy Water
 Blessings.
 
-<img src="../assets/LiberationMarch2025/media/image54.jpeg"
+<img src="assets/LiberationMarch2025/media/image54.jpeg"
 style="width:6.5in;height:4.32639in"
 alt="A group of people in red jackets AI-generated content may be incorrect." />  
 Even Poppy the dog gets some treats from the Holy Water Gang.
 
-<img src="../assets/LiberationMarch2025/media/image55.png"
+<img src="assets/LiberationMarch2025/media/image55.png"
 style="width:6.5in;height:8.66667in"
 alt="Two women feeding a dog AI-generated content may be incorrect." />
 
 A well badged hiker.
 
-<img src="../assets/LiberationMarch2025/media/image56.png"
+<img src="assets/LiberationMarch2025/media/image56.png"
 style="width:6.5in;height:4.33333in"
 alt="A person with a red scarf and pins on their jacket AI-generated content may be incorrect." />
 
@@ -671,7 +671,7 @@ event. There were many more who did the half march or the 4 km victory
 lap, but Danny, who has marched every year, said that was not the real
 march and therefore didn’t count!
 
-<img src="../assets/LiberationMarch2025/media/image57.png"
+<img src="assets/LiberationMarch2025/media/image57.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people walking on a road AI-generated content may be incorrect." />
 
@@ -686,13 +686,13 @@ selling coffee, water and Bailey’s and Amaretto shots (know your
 clientele) and doing a rousing business with all three. Teacher Katie
 saluting the scouts’ entrepreneurship.
 
-<img src="../assets/LiberationMarch2025/media/image58.png"
+<img src="assets/LiberationMarch2025/media/image58.png"
 style="width:6.5in;height:8.66667in"
 alt="A person walking on a cobblestone street AI-generated content may be incorrect." />
 
 Troops march into Oostburg for another remembrance ceremony.
 
-<img src="../assets/LiberationMarch2025/media/image59.png"
+<img src="assets/LiberationMarch2025/media/image59.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of soldiers marching on a road AI-generated content may be incorrect." />
 
@@ -703,7 +703,7 @@ the conflict.
 
 The plaques honouring the QOR Liberation of the town.
 
-<img src="../assets/LiberationMarch2025/media/image60.png"
+<img src="assets/LiberationMarch2025/media/image60.png"
 style="width:6.48333in;height:4.32438in"
 alt="A row of plaque on a brick wall AI-generated content may be incorrect." />
 
@@ -748,7 +748,7 @@ of the importance of remembrance.
 The other memorial in the square is dedicated to the civilians who lost
 their lives during the liberation.
 
-<img src="../assets/LiberationMarch2025/media/image61.png"
+<img src="assets/LiberationMarch2025/media/image61.png"
 style="width:6.5in;height:8.63264in"
 alt="A monument with flowers and a metal triangle AI-generated content may be incorrect." />
 
@@ -770,7 +770,7 @@ bombing and shelling, with 353 buildings destroyed and over 100
 civilians killed. Once the Canadians took the town, the Germans
 relentlessly shelled the town in preparation for counterattacks.
 
-<img src="../assets/LiberationMarch2025/media/image62.png"
+<img src="assets/LiberationMarch2025/media/image62.png"
 style="width:6.5in;height:3.84236in"
 alt="A destroyed city street with debris AI-generated content may be incorrect." />
 
@@ -787,17 +787,17 @@ few years ago and created their own Liberation March Ottawa style. This
 group had coins produced for the walk, and the coins were presented by
 Principal Janice and Teacher OPI Rachel to acknowledge the inspiration.
 
-<img src="../assets/LiberationMarch2025/media/image63.png"
+<img src="assets/LiberationMarch2025/media/image63.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people standing together AI-generated content may be incorrect." />
 
-<img src="../assets/LiberationMarch2025/media/image64.png"
+<img src="assets/LiberationMarch2025/media/image64.png"
 style="width:6.5in;height:4.33333in"
 alt="A person holding a coin AI-generated content may be incorrect." />
 
 The next stop was the Hickman Bridge in Retranchement.
 
-<img src="../assets/LiberationMarch2025/media/image65.png"
+<img src="assets/LiberationMarch2025/media/image65.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people in military uniforms AI-generated content may be incorrect." />
 
@@ -812,15 +812,15 @@ alt="A group of people in military uniforms AI-generated content may be incorrec
 > dedicated in his name on 30 October 1986. This simple monument was
 > adopted by the children of the local school.*
 
-<img src="../assets/LiberationMarch2025/media/image66.png"
+<img src="assets/LiberationMarch2025/media/image66.png"
 style="width:6.5in;height:4.89444in"
 alt="A sign on a brick wall AI-generated content may be incorrect." />
 
-<img src="../assets/LiberationMarch2025/media/image67.png"
+<img src="assets/LiberationMarch2025/media/image67.png"
 style="width:6.5in;height:4.33333in"
 alt="A person in military uniform saluting AI-generated content may be incorrect." />
 
-<img src="../assets/LiberationMarch2025/media/image68.png"
+<img src="assets/LiberationMarch2025/media/image68.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people standing around flags AI-generated content may be incorrect." />
 
@@ -833,7 +833,7 @@ There is a WW2 Bailey Bridge across the Leopold Canal. While visiting
 the bridge last May, we were fortunate to have a bridge crossing by a
 WW2 vehicle out for a Sunday cruse.
 
-<img src="../assets/LiberationMarch2025/media/image69.png"
+<img src="assets/LiberationMarch2025/media/image69.png"
 style="width:6.5in;height:4.89444in"
 alt="A group of people in a military vehicle AI-generated content may be incorrect." />
 
@@ -841,11 +841,11 @@ Just after the Hickman Bridge the route crosses into Belgium. In great
 military tradition, the convoy and troops pulled over for a celebratory
 Belgian Beer before continuing.
 
-<img src="../assets/LiberationMarch2025/media/image70.png"
+<img src="assets/LiberationMarch2025/media/image70.png"
 style="width:6.5in;height:4.33333in"
 alt="A row of military vehicles on a road AI-generated content may be incorrect." />
 
-<img src="../assets/LiberationMarch2025/media/image71.png"
+<img src="assets/LiberationMarch2025/media/image71.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people in military uniforms AI-generated content may be incorrect." />
 
@@ -870,7 +870,7 @@ The final celebration is at the War Memorial in Knokke-Heist. A final
 round of speeches, wreath-laying and music is the fitting end to an
 action-packed weekend of remembrance.
 
-<img src="../assets/LiberationMarch2025/media/image72.png"
+<img src="assets/LiberationMarch2025/media/image72.png"
 style="width:6.5in;height:4.33333in"
 alt="A group of people standing in front of a flag AI-generated content may be incorrect." />
 
@@ -879,7 +879,7 @@ chief organizer of the Teachers and families, with a well-deserved
 commendation and Commander’s coin, for his efforts in making sure the
 weekend ran smoothly.
 
-<img src="../assets/LiberationMarch2025/media/image73.png"
+<img src="assets/LiberationMarch2025/media/image73.png"
 style="width:6.5in;height:4.99653in"
 alt="Two men standing next to each other AI-generated content may be incorrect." />
 
@@ -887,7 +887,7 @@ After that, all that was left was a visit to the beer tent, where
 Teacher Whitney demonstrated the importance of hydration after the
 march.
 
-<img src="../assets/LiberationMarch2025/media/image74.png"
+<img src="assets/LiberationMarch2025/media/image74.png"
 style="width:6.5in;height:8.66667in"
 alt="A person holding glasses of beer AI-generated content may be incorrect." />
 

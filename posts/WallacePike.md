@@ -1,6 +1,6 @@
 # WallacePike
 
-# <img src="../assets/WallacePike/media/image1.png"
+# <img src="assets/WallacePike/media/image1.png"
 style="width:3.11419in;height:4.39528in"
 alt="A person in a military uniform AI-generated content may be incorrect." />
 
@@ -105,7 +105,7 @@ After another winter in the woods, Wallace and a few of his pals decided
 to enlist. Wallace is only 17 at the time, so he lies about his age to
 get accepted, claiming he is 18. A photo of Wallace and a buddy.
 
-<img src="../assets/WallacePike/media/image2.png"
+<img src="assets/WallacePike/media/image2.png"
 style="width:4.65625in;height:3.61458in"
 alt="A couple of men in military uniforms AI-generated content may be incorrect." />
 
@@ -147,7 +147,7 @@ alt="A couple of men in military uniforms AI-generated content may be incorrect.
 > mother's heart was well nigh breaking as every now and then when she
 > would look at me the tears would start down over her cheeks.*
 >
-> <img src="../assets/WallacePike/media/image3.jpg"
+> <img src="assets/WallacePike/media/image3.jpg"
 > style="width:3.30208in;height:3.25in"
 > alt="A young person in a military uniform AI-generated content may be incorrect." />
 
@@ -180,7 +180,7 @@ After a short time in St John’s, a draft of approximately 300 soldiers
 sailed to Halifax on 19 May 1917 on the SS Florizel. The Florizel was
 one of the first ships specifically designed to operate in icy waters.
 
-<img src="../assets/WallacePike/media/image4.jpg"
+<img src="assets/WallacePike/media/image4.jpg"
 style="width:5.97701in;height:4.20383in"
 alt="A large ship in the water AI-generated content may be incorrect." />
 
@@ -201,7 +201,7 @@ the Olympic rammed and sank the German submarine U-103 in the English
 Channel. Thus, Olympic became the only troopship during the First World
 War to sink an enemy submarine.
 
-<img src="../assets/WallacePike/media/image5.jpeg"
+<img src="assets/WallacePike/media/image5.jpeg"
 style="width:6.5in;height:4.45069in"
 alt="A large ship in the water AI-generated content may be incorrect." />
 
@@ -209,7 +209,7 @@ They landed in Liverpool and on 10 June arrived at Ayr, on the West
 coast of Scotland when the 2<sup>nd</sup> Battalion Newfoundland
 Regiment trained replacement for the 1<sup>st</sup> Division in France.
 
-<img src="../assets/WallacePike/media/image6.JPG"
+<img src="assets/WallacePike/media/image6.JPG"
 style="width:6.20833in;height:8.9375in"
 alt="A person in a uniform sitting on a chair AI-generated content may be incorrect." />
 
@@ -231,7 +231,7 @@ take Cambrai. A new approach was taken, the British amassed 476 tanks
 Divisions of Infantry. Tanks with Fascines (bundles of wood used to
 bridge trenches).
 
-<img src="../assets/WallacePike/media/image7.jpg"
+<img src="assets/WallacePike/media/image7.jpg"
 style="width:6.5in;height:5.0375in"
 alt="A group of tanks on a train track AI-generated content may be incorrect." />
 
@@ -241,7 +241,7 @@ guns opened up at 0630 on 20 November and the infantry and tanks
 advanced under a creeping barrage. The attack was spectacularly
 successful, with advances of more than 5 miles on the first day.
 
-<img src="../assets/WallacePike/media/image8.jpg"
+<img src="assets/WallacePike/media/image8.jpg"
 style="width:6.5in;height:7.66806in"
 alt="A map of a battle of cambrai AI-generated content may be incorrect." />
 
@@ -251,7 +251,7 @@ troops had outpaced their artillery. The rapid advance had created a
 salient (bulge) in the front lines that would be exploited by the
 Germans.
 
-<img src="../assets/WallacePike/media/image9.jpg"
+<img src="assets/WallacePike/media/image9.jpg"
 style="width:6.5in;height:5.01181in"
 alt="A group of soldiers standing around a destroyed tank AI-generated content may be incorrect." />
 
@@ -266,7 +266,7 @@ Regiment in World War One.
 The Newfoundland Regiment had been part of the 88<sup>th</sup> Brigade,
 29<sup>th</sup> Division since coming to France in 1915.
 
-<img src="../assets/WallacePike/media/image10.jpeg"
+<img src="assets/WallacePike/media/image10.jpeg"
 style="width:6.5in;height:6.43542in"
 alt="A map of the cambrai Description automatically generated" />Advance
 
@@ -278,7 +278,7 @@ previously occupied by the 20th Division, who had advanced two and
 one-half miles to this point. At 10:00 a.m., they advanced behind the
 tanks.
 
-<img src="../assets/WallacePike/media/image11.jpg"
+<img src="assets/WallacePike/media/image11.jpg"
 style="width:6.5in;height:4.42847in"
 alt="A group of people on a tank AI-generated content may be incorrect." />
 
@@ -289,7 +289,7 @@ There was little resistance as they crossed the first trenches of the
 Hindenburg Line. Some enfilade fire from machine gun nests was quickly
 dealt with though it slowed the advance and caused some casualties.
 
-<img src="../assets/WallacePike/media/image12.jpeg"
+<img src="assets/WallacePike/media/image12.jpeg"
 style="width:6.5in;height:4.84792in"
 alt="A map of a battle Description automatically generated" />
 
@@ -320,7 +320,7 @@ resulted in casualties.
 
 The lock that the Regiment crossed in single file.
 
-<img src="../assets/WallacePike/media/image13.png"
+<img src="assets/WallacePike/media/image13.png"
 style="width:6.5in;height:4.89444in" />
 
 The 87th Brigade had found Marcoing free of Germans and the 86th Brigade
@@ -328,7 +328,7 @@ had taken Nine Wood and Noyelle beyond. However, Masnieres was not
 captured. A tank crossing the lift bridge crashed into the canal,
 preventing armoured support from assisting the attackers.
 
-<img src="../assets/WallacePike/media/image14.png"
+<img src="assets/WallacePike/media/image14.png"
 style="width:6.5in;height:4.23264in"
 alt="A bridge that has been destroyed AI-generated content may be incorrect." />
 
@@ -340,7 +340,7 @@ the Regiment less than a week earlier. Hearing his detailed description
 of his first time in combat in the shadow of the memorial was an
 extremely moving experience.
 
-<img src="../assets/WallacePike/media/image15.png"
+<img src="assets/WallacePike/media/image15.png"
 style="width:6.5in;height:4.89444in" />
 
 At the Masnieres Memorial. As was appropriate for the Newfoundland
@@ -493,7 +493,7 @@ main thrust of nine German Divisions would be a drive from the east,
 then a drive north to eliminate the salient the British attack had
 created.
 
-<img src="../assets/WallacePike/media/image16.jpg"
+<img src="assets/WallacePike/media/image16.jpg"
 style="width:6.5in;height:7.66806in"
 alt="A map of the battle of cambrai AI-generated content may be incorrect." />
 
@@ -530,7 +530,7 @@ November. The grey lines show the German counterattack, and the red
 arrows shows the Newfoundland Regiment bayonet charge that pushed back
 the German counterattack.
 
-<img src="../assets/WallacePike/media/image17.JPG"
+<img src="assets/WallacePike/media/image17.JPG"
 style="width:6.5in;height:7.21667in"
 alt="A map of a town AI-generated content may be incorrect." />
 
@@ -737,7 +737,7 @@ had been given to a regiment in time of war. (The other times were in
 1695 and in 1885). The Royal Newfoundland Regiment Colours showing the
 Battle Honours.
 
-<img src="../assets/WallacePike/media/image18.png"
+<img src="assets/WallacePike/media/image18.png"
 style="width:6.5in;height:5.85486in"
 alt="A black pillow with a logo on it AI-generated content may be incorrect." />
 
@@ -768,7 +768,7 @@ Channel Ports. Eventually logistical issues and Allied reorganization
 led to the end of the advance and set the stage for the Final 100 Days
 Allied offensive that ended the War.
 
-<img src="../assets/WallacePike/media/image19.jpg"
+<img src="assets/WallacePike/media/image19.jpg"
 style="width:6.5in;height:4.875in"
 alt="A map of the german army AI-generated content may be incorrect." />
 
@@ -791,7 +791,7 @@ Ploegsteert to the edge of Nieppe. The 88th Brigade was diverted to
 Bailleul under temporary command of the 25th Division to secure the road
 under threat from the Germans advancing from the south.
 
-<img src="../assets/WallacePike/media/image20.jpeg"
+<img src="assets/WallacePike/media/image20.jpeg"
 style="width:6.5in;height:8.91015in"
 alt="A map of a train station Description automatically generated" />
 
@@ -816,7 +816,7 @@ Bailleul-Armentieres Road in order to protect the 88th Brigade from
 encirclement. At dusk, the 34<sup>th</sup> Division withdrew from
 Nieppe, and passed through the 88th Brigade. Destruction of Bailleul.
 
-<img src="../assets/WallacePike/media/image21.jpg"
+<img src="assets/WallacePike/media/image21.jpg"
 style="width:6.5in;height:4.65556in"
 alt="A road with ruins of a building AI-generated content may be incorrect." />
 
@@ -825,7 +825,7 @@ alt="A road with ruins of a building AI-generated content may be incorrect." />
 April 12 was a day of crisis. The Germans had pushed the British from
 Estaires. The enemy were now in the rear of Bailleul.
 
-<img src="../assets/WallacePike/media/image22.jpg"
+<img src="assets/WallacePike/media/image22.jpg"
 style="width:6.5in;height:4.67361in"
 alt="A destroyed building with rubble and debris AI-generated content may be incorrect." />
 
@@ -836,7 +836,7 @@ front line with the Hampshires on the right and the Monmouth Regt on the
 left. At noon A and C Companies were forward in the line, the other
 Companies were in support.
 
-<img src="../assets/WallacePike/media/image23.png"
+<img src="assets/WallacePike/media/image23.png"
 style="width:6.5in;height:3.97986in"
 alt="A map of a city AI-generated content may be incorrect." />
 
@@ -884,7 +884,7 @@ We visited the spot near de Beoken Farm where Wallace was wounded as a
 stretcher bearer. His grandson Rod in the field where Wallace was hit by
 machine gun fire.
 
-<img src="../assets/WallacePike/media/image24.jpg"
+<img src="assets/WallacePike/media/image24.jpg"
 style="width:6.5in;height:4.30625in"
 alt="A person standing in a field AI-generated content may be incorrect." />
 
@@ -1023,7 +1023,7 @@ on a regular basis. King George V, French President Raymond Poincare and
 Field Marshal Douglas Haig inspecting the Guard of Honour of the Royal
 Newfoundland Regiment at GHQ at Montreuil, 7 August 1918.
 
-<img src="../assets/WallacePike/media/image25.jpg"
+<img src="assets/WallacePike/media/image25.jpg"
 style="width:5.46009in;height:4.293in"
 alt="A person walking with a group of soldiers AI-generated content may be incorrect." />
 
@@ -1038,7 +1038,7 @@ Dunkirk, Calais, Boulogne, Dieppe, and Le Havre, and had its front
 stretching from the Somme to beyond the Belgian frontier. The British
 General Headquarters building.
 
-<img src="../assets/WallacePike/media/image26.jpg"
+<img src="assets/WallacePike/media/image26.jpg"
 style="width:6.5in;height:4.37083in"
 alt="A building with people standing outside AI-generated content may be incorrect." />
 
@@ -1067,7 +1067,7 @@ Regiment was in support of the two leading battalions. Over a ten-day
 period, the Newfoundlanders managed to advance from Hell Fire Corner
 nearly nine miles.
 
-<img src="../assets/WallacePike/media/image27.jpeg"
+<img src="assets/WallacePike/media/image27.jpeg"
 style="width:6.5in;height:3.92292in"
 alt="A map of a city Description automatically generated with medium confidence" />The
 Regiment’s advance during the Ypres 1918 offensive led by B and D
@@ -1270,7 +1270,7 @@ The next phase of the battle for the Regiment began on 14 October, when
 the Second Army, including the Regiment was to advance and capture the
 rail line running north of Courtrai, about 7 kilometres to the east.
 
-<img src="../assets/WallacePike/media/image28.jpeg"
+<img src="assets/WallacePike/media/image28.jpeg"
 style="width:5.42708in;height:6.54167in"
 alt="A map of a battle Description automatically generated" />
 
@@ -1291,7 +1291,7 @@ The Regiment suffered 640 casualties during this final push in September
 and October. Of the approximately 6,000 soldiers who served in the
 Regiment, almost 3,000 became casualties.
 
-<img src="../assets/WallacePike/media/image29.jpeg"
+<img src="assets/WallacePike/media/image29.jpeg"
 style="width:6.5in;height:4.71631in"
 alt="A map of a road Description automatically generated" />
 
@@ -1307,14 +1307,14 @@ or ruined buildings.
 We visited the site where Wallace was wounded based on the Unit War
 Diaries.
 
-<img src="../assets/WallacePike/media/image30.png"
+<img src="assets/WallacePike/media/image30.png"
 style="width:6.5in;height:3.69792in"
 alt="A map of a city AI-generated content may be incorrect." />
 
 Grandson Rod Pike standing on the ground where Wallace was severely
 wounded.
 
-<img src="../assets/WallacePike/media/image31.png"
+<img src="assets/WallacePike/media/image31.png"
 style="width:6.5in;height:4.89444in"
 alt="A person standing in a field AI-generated content may be incorrect." />
 
@@ -1343,7 +1343,7 @@ Lijssenthoek, Belgium, about 15 km east of Ypres. Wallace was
 transferred to Number 32 Stationary Hospital in Wimereux, just north of
 Boulogne, on 04 October.
 
-<img src="../assets/WallacePike/media/image32.jpeg"
+<img src="assets/WallacePike/media/image32.jpeg"
 style="width:6.5in;height:2.37153in"
 alt="A drawing of a building AI-generated content may be incorrect." />
 
@@ -1446,7 +1446,7 @@ Military Hospital Bethnal Green, London. The 750 bed Bethnal Green
 Hospital was initially opened as the local workhouse infirmary on
 Cambridge Heath Road, Bethnal Green in 1900.
 
-<img src="../assets/WallacePike/media/image33.jpg"
+<img src="assets/WallacePike/media/image33.jpg"
 style="width:5.58115in;height:4.42949in"
 alt="A building with a street light AI-generated content may be incorrect." />
 
@@ -1461,7 +1461,7 @@ Livingstone I presume?” fame. Another factoid, Mick Jagger and Keith
 Richards of the rock group The Rolling Stones were both born at the
 Hospital in 1943.
 
-<img src="../assets/WallacePike/media/image34.jpeg"
+<img src="assets/WallacePike/media/image34.jpeg"
 style="width:6.5in;height:4.35208in"
 alt="A drawing of a cottage AI-generated content may be incorrect." />
 
@@ -1590,7 +1590,7 @@ Royal Naval Reserve were lower, but still far too high - about nine per
 cent of those who enlisted died in the war. Newfoundland Memorial to the
 Missing at Beaumont-Hamel.
 
-<img src="../assets/WallacePike/media/image35.png"
+<img src="assets/WallacePike/media/image35.png"
 style="width:6.5in;height:3.65972in"
 alt="A stone wall with names on it AI-generated content may be incorrect." />
 
@@ -1765,7 +1765,7 @@ felt that's what God wanted me to do. Just remember I had been trained
 to kill men and now if I could I’d go out and save them or help them be
 good."
 
-<img src="../assets/WallacePike/media/image36.JPG"
+<img src="assets/WallacePike/media/image36.JPG"
 style="width:5.75476in;height:9.04801in"
 alt="A person and person in military uniforms with a baby AI-generated content may be incorrect." />
 
@@ -1774,7 +1774,7 @@ Salvation Army, they served in numerous corps over the next 43 years.
 Wallace and Minnie had 10 children, 30 grandchildren, 50 great
 grandchildren and 6 great-great grandchildren.
 
-<img src="../assets/WallacePike/media/image37.JPG"
+<img src="assets/WallacePike/media/image37.JPG"
 style="width:6.5in;height:7.69236in"
 alt="A person and person in uniform AI-generated content may be incorrect." />
 
@@ -1790,7 +1790,7 @@ Regiment."
 
 Wallace with Ambassador Bauchard.
 
-<img src="../assets/WallacePike/media/image38.JPG"
+<img src="assets/WallacePike/media/image38.JPG"
 style="width:6.5in;height:4.77986in"
 alt="A person in a suit talking to a person AI-generated content may be incorrect." />
 
@@ -1835,14 +1835,14 @@ read in the House of Assembly:
 Wallace was buried with his wife Minnie in the Salvation Army Cemetery
 in Bay Roberts, Newfoundland.
 
-<img src="../assets/WallacePike/media/image39.JPG"
+<img src="assets/WallacePike/media/image39.JPG"
 style="width:6.5in;height:4.93056in"
 alt="A flag on a grave AI-generated content may be incorrect." />
 
 A commemorative plaque also acknowledges Wallace as the last WWI Royal
 Newfoundland Regiment veteran.
 
-<img src="../assets/WallacePike/media/image40.JPG"
+<img src="assets/WallacePike/media/image40.JPG"
 style="width:6.5in;height:4.95556in"
 alt="A plaque on the ground AI-generated content may be incorrect." />
 

@@ -17,14 +17,14 @@ march is part of a larger celebration known as "Canada Week," during
 which the town honors the more than 1,000 Canadian and Allied soldiers
 who sacrificed their lives in the effort.
 
-<img src="../assets/Canadian-Liberation-March/media/image1.jpg"
+<img src="assets/Canadian-Liberation-March/media/image1.jpg"
 style="width:6.5in;height:2.73819in"
 alt="A map with green lines and blue dots Description automatically generated" />
 
 The route is defined by a collection of 18 markers in the positions
 shown on the map above.
 
-<img src="../assets/Canadian-Liberation-March/media/image2.jpg"
+<img src="assets/Canadian-Liberation-March/media/image2.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A grave stone in a grassy field Description automatically generated" />
 
@@ -49,7 +49,7 @@ Canal, the Germans withdrew from Eede destroying many buildings for
 better fields of fire. Over 90% of the buildings in the town were
 destroyed.
 
-<img src="../assets/Canadian-Liberation-March/media/image3.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image3.jpeg"
 style="width:6.5in;height:3.90278in" />
 
 On Saturday, the AF North teaching staff, students and families joined
@@ -58,14 +58,14 @@ Freedom Pipe Band leading, the military contingent followed by civilian
 members paraded through the streets to the Resistance Square for the
 first ceremony of the day.
 
-<img src="../assets/Canadian-Liberation-March/media/image4.jpg"
+<img src="assets/Canadian-Liberation-March/media/image4.jpg"
 style="width:6.5in;height:4.875in"
 alt="A group of people walking on a brick street Description automatically generated" />
 
 Following the parade. Its easy to tell the former military members (and
 ex pipe band members) as they are automatically in step with the band.
 
-<img src="../assets/Canadian-Liberation-March/media/image5.jpg"
+<img src="assets/Canadian-Liberation-March/media/image5.jpg"
 style="width:6.5in;height:4.875in"
 alt="A group of people walking on a street Description automatically generated" />
 
@@ -78,7 +78,7 @@ At the Resistance Square, there were speeches, wreathes and lots of
 local spectators. At each stop the gratitude of the residents and the
 high esteem the locals hold for the Canadians was evident.
 
-<img src="../assets/Canadian-Liberation-March/media/image6.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image6.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A group of people standing in a line Description automatically generated" />
 
@@ -120,7 +120,7 @@ environment.
 > soldier shakes his head, cleans his rifle, swears a good deal and
 > dreams of what he’ll do when he gets LEAVE (if).”*
 
-<img src="../assets/Canadian-Liberation-March/media/image7.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image7.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The group then marched off to *Immaculate Heart of Mary and Margaret
@@ -128,7 +128,7 @@ Church*  for Mass and a concert. A church was built on this site in 1227
 and the Octagonal tower on a square base was built in 1642. The church
 was heavily damaged during the war and was rebuilt 1955-1958.
 
-<img src="../assets/Canadian-Liberation-March/media/image8.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image8.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A building with a clock tower Description automatically generated" />
 
@@ -278,20 +278,20 @@ The lines from the Scheldt Pocket song were also repeated:
 >
 > *So think about what you’re willing to die for*
 
-<img src="../assets/Canadian-Liberation-March/media/image9.jpg"
+<img src="assets/Canadian-Liberation-March/media/image9.jpg"
 style="width:6.5in;height:8.45in"
 alt="A person standing in a field of white tombstones with Arlington National Cemetery in the background Description automatically generated" />
 
 Adegem, like all Commonwealth War Grave Cemeteries is immaculately
 maintained.
 
-<img src="../assets/Canadian-Liberation-March/media/image10.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image10.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A grave stone with flowers in front of it Description automatically generated" />
 
 ## Christoper Cadeau
 
-<img src="../assets/Canadian-Liberation-March/media/image11.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image11.jpeg"
 style="width:6.07292in;height:8.09722in"
 alt="A person in a uniform Description automatically generated" />
 
@@ -315,7 +315,7 @@ and
 [South](https://www.paulsbattlefieldtours.com/post/battle-of-the-scheldt-southern-bank)
 of the Scheldt. A photo of Rachel visiting Christopher’s grave.
 
-<img src="../assets/Canadian-Liberation-March/media/image12.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image12.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A person standing in a cemetery Description automatically generated" />
 
@@ -330,7 +330,7 @@ to explore a cemetery. It can be overwhelming to see the mass of graves,
 but picking a specific soldier, unit or date allows you to focus on
 individual stories. Teachers and families finding their soldiers.
 
-<img src="../assets/Canadian-Liberation-March/media/image13.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image13.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A group of flags flying in a field Description automatically generated" />
 
@@ -343,7 +343,7 @@ as a member of the Regina Rifles. He spent 2 years in England and was
 part of the D-Day landings arriving on the Beach near Courcelles at 0815
 as part of B Company Regina Rifles. He was listed as a scout and sniper.
 
-<img src="../assets/Canadian-Liberation-March/media/image14.jpg"
+<img src="assets/Canadian-Liberation-March/media/image14.jpg"
 style="width:3.25789in;height:4.40688in"
 alt="A person in a military uniform Description automatically generated" />
 
@@ -366,7 +366,7 @@ hospital before succumbing to his wounds on 31 October. He was
 originally buried in the La cimitiere de Bruge, before being moved to
 Adegem after the war.
 
-<img src="../assets/Canadian-Liberation-March/media/image15.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image15.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A tombstone with a leaf and a cross Description automatically generated" />
 
@@ -378,14 +378,14 @@ mannequins all have wax heads, mostly produced in the 1930’s, which give
 a very life-like image for their dioramas. The maintenance and
 refurbishment of the heads is done in house.
 
-<img src="../assets/Canadian-Liberation-March/media/image16.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image16.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A group of men in military uniforms Description automatically generated" />
 
 The museum is heavily focussed on Canadians, and the uniforms are from
 the units that fought in the battle of the Scheldt.
 
-<img src="../assets/Canadian-Liberation-March/media/image17.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image17.jpeg"
 style="width:8.66667in;height:6.5in"
 alt="A mannequins in military uniforms Description automatically generated" />
 
@@ -396,13 +396,13 @@ Scheldt Pocket Warrior that was on display at the museum. The sculpture
 will be sent to the Canadian War Museum in Ottawa and a twin of the
 statue was unveiled at the Hickman Bridge the next day.
 
-<img src="../assets/Canadian-Liberation-March/media/image18.jpg"
+<img src="assets/Canadian-Liberation-March/media/image18.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A statue of a person in a garment Description automatically generated" />
 
 Windmill near the For Freedom Museum wearing the Canadian Flag.
 
-<img src="../assets/Canadian-Liberation-March/media/image19.jpg"
+<img src="assets/Canadian-Liberation-March/media/image19.jpg"
 style="width:6.5in;height:4.875in"
 alt="A windmill with a flag on the roof Description automatically generated" />
 
@@ -413,13 +413,13 @@ option of walking the entire route, the first half, the second half or
 the final 4 km. The day started early at Hoofdplaat, Netherlands with
 the military personnel visiting the beach of the Scheldt.
 
-<img src="../assets/Canadian-Liberation-March/media/image20.jpg"
+<img src="assets/Canadian-Liberation-March/media/image20.jpg"
 style="width:6.5in;height:4.875in"
 alt="A group of people standing on a beach Description automatically generated" />
 
 Some smiling marchers on the Beach ready to take the challenge.
 
-<img src="../assets/Canadian-Liberation-March/media/image21.jpg"
+<img src="assets/Canadian-Liberation-March/media/image21.jpg"
 style="width:6.5in;height:4.875in"
 alt="Two women in red jackets and hats standing on a path by water Description automatically generated" />
 
@@ -429,13 +429,13 @@ March Marker for speeches wreath laying and the unveiling of the new
 of the Scheldt and the 50<sup>th</sup> anniversary of the Canadian
 Liberation March.
 
-<img src="../assets/Canadian-Liberation-March/media/image22.jpg"
+<img src="assets/Canadian-Liberation-March/media/image22.jpg"
 style="width:6.5in;height:4.875in"
 alt="A sign on a brick wall Description automatically generated" />
 
 A close up of the plaque.
 
-<img src="../assets/Canadian-Liberation-March/media/image23.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image23.jpeg"
 style="width:6.5in;height:2.9875in"
 alt="A sign on a brick wall Description automatically generated" />
 
@@ -445,26 +445,26 @@ weather for the last few years had been bad and very bad so a non-rainy
 day drew record crowds. The crowd following the military contingent
 through Hoofdplaat.
 
-<img src="../assets/Canadian-Liberation-March/media/image24.jpg"
+<img src="assets/Canadian-Liberation-March/media/image24.jpg"
 style="width:6.5in;height:4.875in"
 alt="A group of people walking on a street Description automatically generated" />
 
 Looking back on more of the marchers.
 
-<img src="../assets/Canadian-Liberation-March/media/image25.jpg"
+<img src="assets/Canadian-Liberation-March/media/image25.jpg"
 style="width:6.5in;height:4.875in"
 alt="A group of people walking on a street Description automatically generated" />
 
 Once the march cleared town, the pack started to spread out. The plowed
 fields show the muddy conditions.
 
-<img src="../assets/Canadian-Liberation-March/media/image26.jpg"
+<img src="assets/Canadian-Liberation-March/media/image26.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A group of people walking on a path Description automatically generated" />
 
 A great shot of a military member walking with his daughter.
 
-<img src="../assets/Canadian-Liberation-March/media/image27.jpg"
+<img src="assets/Canadian-Liberation-March/media/image27.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A group of people walking on a path Description automatically generated" />
 
@@ -482,21 +482,21 @@ the March’s history, she was told she couldn’t pass out alcohol to the
 marchers. She proclaimed she was dispensing Holy Water and had the
 bottles blessed by the Parish priest.
 
-<img src="../assets/Canadian-Liberation-March/media/image28.jpg"
+<img src="assets/Canadian-Liberation-March/media/image28.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A group of people outside Description automatically generated" />
 
 Teacher Christine hydrating for the walk and Teacher Shannon doubling
 down on the Holy Water.
 
-<img src="../assets/Canadian-Liberation-March/media/image29.jpg"
+<img src="assets/Canadian-Liberation-March/media/image29.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A group of people outside Description automatically generated" />
 
 Cheers to all the Teachers and family members who made the trek. Holy
 Water and snacks for all.
 
-<img src="../assets/Canadian-Liberation-March/media/image30.jpg"
+<img src="assets/Canadian-Liberation-March/media/image30.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A group of people holding cups and food Description automatically generated" />
 
@@ -504,7 +504,7 @@ I was fortunate to be able to ride in the Support Van for the afternoon
 (thanks Dwayne and Joe) so was present when the Holy Water Lady received
 a Thank You for her dedication in supporting the marchers.
 
-<img src="../assets/Canadian-Liberation-March/media/image31.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image31.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A group of people standing next to a table with food and drinks Description automatically generated" />
 
@@ -513,7 +513,7 @@ Monument at Biervliet to honour the landing site where the Canadians
 circumvented the Germans by conducting an amphibious landing to bypass
 German strong points.
 
-<img src="../assets/Canadian-Liberation-March/media/image32.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image32.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A stone monument with a plaque Description automatically generated" />
 
@@ -522,7 +522,7 @@ Highlanders and Highland Light Infantry of Canada regiments made
 landings in 100 Buffalo Amphibious vehicles just east of Hoofdplaat on
 the river’s edge.
 
-<img src="../assets/Canadian-Liberation-March/media/image33.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image33.jpeg"
 style="width:6.5in;height:7.84306in"
 alt="A map of the coast Description automatically generated" />
 
@@ -530,7 +530,7 @@ The Buffalos were tracked amphibious vehicles that carried 30 troops and
 used their treads as paddles in the water to advance at 8 mph. A photo
 of the Buffalos landing on the Scheldt bank.
 
-<img src="../assets/Canadian-Liberation-March/media/image34.jpg"
+<img src="assets/Canadian-Liberation-March/media/image34.jpg"
 style="width:4.81338in;height:3.60622in"
 alt="A group of people on a boat Description automatically generated" />
 
@@ -539,7 +539,7 @@ strip of marsh grass followed by a steep dike. The landing areas are
 shown below. A number of Buffalos got bogged down on the shoreline, but
 the troops got ashore with relatively few casualties.
 
-<img src="../assets/Canadian-Liberation-March/media/image35.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image35.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A grassy area with a body of water and a boat in the distance Description automatically generated" />
 
@@ -550,14 +550,14 @@ The contingent also stopped in Oostburg at the Town Hall memorial. The
 memorial is to the destruction of the town during bombings in October
 1944 and the loss of civilian lives.
 
-<img src="../assets/Canadian-Liberation-March/media/image36.jpg"
+<img src="assets/Canadian-Liberation-March/media/image36.jpg"
 style="width:6.5in;height:8.66667in"
 alt="A group of people standing in front of a building Description automatically generated" />
 
 Also in Oostburg is a memorial to the Queen’s Own Rifles (QOR), who
 liberated Oostburg on 25 October 1944.
 
-<img src="../assets/Canadian-Liberation-March/media/image37.jpg"
+<img src="assets/Canadian-Liberation-March/media/image37.jpg"
 style="width:6.01042in;height:4.00895in"
 alt="A row of plaque on a brick wall Description automatically generated" />
 
@@ -605,20 +605,20 @@ tribute to him and his comrades. This bridge was dedicated in his name
 on 30 October 1986. This simple monument was adopted by the children of
 the local school.
 
-<img src="../assets/Canadian-Liberation-March/media/image38.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image38.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A sign on a brick wall Description automatically generated" />
 
 The memorial seen from the Bridge.
 
-<img src="../assets/Canadian-Liberation-March/media/image39.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image39.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A group of people standing around flags Description automatically generated" />
 
 The memorial to the engineers. At this site the Military Engineers fall
 out to honour Sgt Hickman.
 
-<img src="../assets/Canadian-Liberation-March/media/image40.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image40.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A group of people standing in a line Description automatically generated" />
 
@@ -628,7 +628,7 @@ conducted by the Mayor of Retrancement and the local sculptor Theo
 Claerhoudt. This statue is a twin to the statue currently at the For
 Freedom Museum, which is destined for the Canadian War Museum in Ottawa.
 
-<img src="../assets/Canadian-Liberation-March/media/image41.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image41.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A person in camouflage standing on a platform with people in the background Description automatically generated" />
 
@@ -636,7 +636,7 @@ After the Bridge ceremony, the contingent crossed the border into
 Belgium and were joined by a fleet of WW2 vehicles and reenactors for a
 Beer.
 
-<img src="../assets/Canadian-Liberation-March/media/image42.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image42.jpeg"
 style="width:6.5in;height:4.89444in"
 alt="A group of people standing in front of a military vehicle Description automatically generated" />
 
@@ -647,14 +647,14 @@ ranks of the marchers swelled, led by the military contingent and joined
 by the For Freedom Pipes and Drums and the Scouts Band from Brugge for
 the home stretch.
 
-<img src="../assets/Canadian-Liberation-March/media/image43.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image43.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A group of people in uniform walking down a street Description automatically generated" />
 
 The final stop was at the memorial in Knokke and there were again crowds
 of spectators in attendance. Canadian flags again were plentiful.
 
-<img src="../assets/Canadian-Liberation-March/media/image44.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image44.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A group of people standing in front of a monument Description automatically generated" />
 
@@ -665,7 +665,7 @@ four plane of Canadian Geese flew overhead while O Canada was playing.
 After the final ceremony, the parade adjourned to the town Octoberfest
 Tent for some well-deserved Brats and Beers.
 
-<img src="../assets/Canadian-Liberation-March/media/image45.jpeg"
+<img src="assets/Canadian-Liberation-March/media/image45.jpeg"
 style="width:6.5in;height:8.63264in"
 alt="A monument with a group of people standing around it Description automatically generated" />
 
@@ -693,7 +693,7 @@ be a watcher than a marcher.
 The For Freedom Pipe Band earned their keep this weekend providing the
 tunes for 3 busy days of commemorations.
 
-<img src="../assets/Canadian-Liberation-March/media/image46.jpg"
+<img src="assets/Canadian-Liberation-March/media/image46.jpg"
 style="width:6.5in;height:4.875in"
 alt="A group of people in uniform Description automatically generated" />
 

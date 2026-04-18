@@ -1,6 +1,6 @@
 # WilliamSullivan
 
-# <img src="../assets/WilliamSullivan/media/image1.jpeg"
+# <img src="assets/WilliamSullivan/media/image1.jpeg"
 style="width:4.07245in;height:6.54717in"
 alt="A close-up of a person in a uniform Description automatically generated" />
 
@@ -35,7 +35,7 @@ Pleasantville. He sailed to the UK on the SS Sicilian as part of the
 3<sup>rd</sup> Battalion C Company First Newfoundland Regiment draft
 consisting of 8 Officers and 235 men.
 
-<img src="../assets/WilliamSullivan/media/image2.jpg"
+<img src="assets/WilliamSullivan/media/image2.jpg"
 style="width:6.5in;height:3.92153in"
 alt="A group of soldiers posing for a photo AI-generated content may be incorrect." />
 
@@ -47,7 +47,7 @@ draft of 173 soldiers, bringing the Regiment strength up to 663
 soldiers. The Regiment was in Reserve for more than a month, training,
 and reorganizing.
 
-<img src="../assets/WilliamSullivan/media/image3.jpg"
+<img src="assets/WilliamSullivan/media/image3.jpg"
 style="width:6.5in;height:3.78472in"
 alt="A large ship in the water Description automatically generated" />
 
@@ -82,11 +82,11 @@ dispositions were:
 
 - Old Firing line Platoon of A Company
 
-<img src="../assets/WilliamSullivan/media/image4.png"
+<img src="assets/WilliamSullivan/media/image4.png"
 style="width:6.5in;height:4.54306in"
 alt="A map of a city Description automatically generated" />
 
-<img src="../assets/WilliamSullivan/media/image5.jpeg"
+<img src="assets/WilliamSullivan/media/image5.jpeg"
 style="width:6.02604in;height:6.93369in"
 alt="A map of a military attack Description automatically generated with medium confidence" />
 
@@ -173,14 +173,14 @@ We visited the site to pay tribute to his sacrifice.
 Based on the trench maps, we were able to locate the field that used to
 contain the Palz and Potsdam trenches.
 
-<img src="../assets/WilliamSullivan/media/image6.png"
+<img src="assets/WilliamSullivan/media/image6.png"
 style="width:6.5in;height:3.19583in" />
 
 A photo of four Sullivans with their backs to the trench lines. Standing
 on the ground where a relative was wounded generates indescribably
 powerful emotions.
 
-<img src="../assets/WilliamSullivan/media/image7.png"
+<img src="assets/WilliamSullivan/media/image7.png"
 style="width:6.5in;height:4.89444in" />
 
 William was sent originally to the 60 Field Ambulance, a mobile medical
@@ -202,7 +202,7 @@ Newfoundland Regiment Depot in Ayr, Scotland.
 
 ## 2<sup>nd</sup> Battalion Ayr, Scotland
 
-<img src="../assets/WilliamSullivan/media/image8.jpg"
+<img src="assets/WilliamSullivan/media/image8.jpg"
 style="width:6.5in;height:2.74444in" />
 
 In Nov 1917, William was finally healthy and was sent to the
@@ -233,7 +233,7 @@ They returned to the Passchendaele region on 05 April and spent 5 days
 in the front-line trenches near the Vindictive Crossroads. William
 rejoined the regiment in time for this rotation.
 
-<img src="../assets/WilliamSullivan/media/image9.JPG"
+<img src="assets/WilliamSullivan/media/image9.JPG"
 style="width:6.5in;height:4.75903in"
 alt="A map with blue text and red text Description automatically generated" />
 
@@ -252,7 +252,7 @@ Regiment left the 29th Division of which they had been a part since
 at Montreuil. They would spend 6 months out of the line, rebuilding the
 unit.
 
-<img src="../assets/WilliamSullivan/media/image10.jpeg"
+<img src="assets/WilliamSullivan/media/image10.jpeg"
 style="width:6.5in;height:8.91031in"
 alt="A map of a train station Description automatically generated" />
 
@@ -271,7 +271,7 @@ On 19 September, the Regiment moved to a position near Hellfire Corner,
 just east of Ypres. The regiment numbered 724 all ranks. In 10 days,
 they advanced nearly nine miles.
 
-<img src="../assets/WilliamSullivan/media/image11.jpeg"
+<img src="assets/WilliamSullivan/media/image11.jpeg"
 style="width:6.5in;height:3.92292in"
 alt="A map of a city Description automatically generated with medium confidence" />
 
@@ -289,7 +289,7 @@ After a brief rest, the Regiment moved forward to the outskirts of
 Ledeghem and for 4 days, stopped multiple German counterattacks. On 14
 October, the Regiment pushed the assault forward.
 
-<img src="../assets/WilliamSullivan/media/image12.jpeg"
+<img src="assets/WilliamSullivan/media/image12.jpeg"
 style="width:5.42708in;height:6.54167in"
 alt="A map of a battle Description automatically generated" />
 
@@ -310,7 +310,7 @@ They had advanced more than 50 km since the 28<sup>th</sup> of September
 and had less than 250 men left in the Regiment. This would be the last
 battle of the War for the Newfoundlanders.
 
-<img src="../assets/WilliamSullivan/media/image13.jpeg"
+<img src="assets/WilliamSullivan/media/image13.jpeg"
 style="width:6.5in;height:4.71631in"
 alt="A map of a road Description automatically generated" />
 
@@ -337,7 +337,7 @@ William (Bill) – Terry’s father, Arthur and Lily. They moved in with
 Rose’s aged mother, Margaret, to help her look after Rose’s three
 intellectually, disabled siblings. A photo of William and Rose in 1958.
 
-<img src="../assets/WilliamSullivan/media/image14.jpeg"
+<img src="assets/WilliamSullivan/media/image14.jpeg"
 style="width:6.01227in;height:4.3785in"
 alt="A person and person standing on a dirt road AI-generated content may be incorrect." />
 
@@ -347,7 +347,7 @@ build a house, including all the furniture and install and maintain the
 plumbing. In Newfoundland they would say, “William could put an arse in
 a cat.” A photo of Lily, William and Rose.
 
-<img src="../assets/WilliamSullivan/media/image15.jpeg"
+<img src="assets/WilliamSullivan/media/image15.jpeg"
 style="width:6.16564in;height:4.33628in"
 alt="A group of people standing on a dirt road AI-generated content may be incorrect." />
 
@@ -360,7 +360,7 @@ residence in St John’s.
 William is buried in Holy Sepulchre Cemetery, Mount Pearl, Newfoundland.
 He is buried with his wife Rose and son William.
 
-<img src="../assets/WilliamSullivan/media/image16.jpeg"
+<img src="assets/WilliamSullivan/media/image16.jpeg"
 style="width:6.5in;height:4.875in"
 alt="A few gravestones in a grass field AI-generated content may be incorrect." />
 
