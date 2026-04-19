@@ -18,7 +18,7 @@ April 10, 2026 - A step-by-step tutorial on building a personal CV website with 
 :::
 
 :::{card} Story of the Goodfellow Brothers.
-:link: /posts/GoodfellowBrothers
+:link: /posts/Goodfellow-Brothers
 :header: <img src="../posts/assets/Goodfellow-Brothers/media/image1.png"
 alt="thumbnail: />
 April 10, 2026 - The story of Annie Goodfellow's cousins
