@@ -51,8 +51,8 @@ style="width:6.5in;height:3.24514in" />
 
 <table>
 <colgroup>
-<col style="width: 27%" />
-<col style="width: 72%" />
+<col style="width: 35%" />
+<col style="width: 65%" />
 </colgroup>
 <thead>
 <tr>
