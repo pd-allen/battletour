@@ -49,9 +49,17 @@ alt="A person and person in military uniforms Description automatically generate
 <img src="assets/Service-Record-Norm-Kightley/media/image3.jpeg"
 style="width:6.5in;height:3.24514in" />
 
-<table style="width:100%">
+<style>
+  /* Prevent date column from wrapping */
+  .service-table td:first-child,
+  .service-table th:first-child {
+    white-space: nowrap !important;
+  }
+</style>
+
+<table class="service-table" style="width:100%">
   <colgroup>
-    <col style="width: 50% white-space: nowrap;">
+    <col style="width: 50%">
     <col style="width: 50%">
   </colgroup>
 
@@ -113,6 +121,7 @@ style="width:6.5in;height:3.24514in" />
     <tr><td><strong>29 Sep 1945</strong></td><td>Discharge</td></tr>
   </tbody>
 </table>
+
 
 
 ## Enlistment
